@@ -1,0 +1,1001 @@
+,url,fork,stars,contr_count,lang,have_site,have_releases,license
+0,https://github.com/MabezDev/xtensa-rust-quickstart,43,342,1,"[('Rust', 100.0)]",False,False,
+1,https://github.com/srijs/rust-aws-lambda,19,320,1,"[('Rust', 100.0)]",False,False,MIT license
+2,https://github.com/servo/rust-mozjs,122,292,1,"[('Rust', 75.8), ('C++', 23.1)]",False,False,MPL-2.0 license
+3,https://github.com/budziq/rust-skeptic,42,282,1,"[('Rust', 100.0)]",False,False,
+4,https://github.com/maidsafe/sn_routing,83,276,1,"[('Rust', 98.3), ('Shell', 1.7)]",False,False,View license
+5,https://github.com/alexcrichton/cargo-vendor,29,260,1,"[('Rust', 99.5), ('Shell', 0.5)]",False,False,
+6,https://github.com/google/hat-backup,39,250,1,"[('Rust', 98.9)]",False,False,
+7,https://github.com/eirproject/eir,8,250,1,"[('Rust', 91.5), ('Erlang', 8.5)]",False,False,Apache-2.0 license
+8,https://github.com/ynqa/kubernetes-rust,23,244,1,"[('Rust', 100.0)]",False,False,Apache-2.0 license
+9,https://github.com/lrs-lang/lib,4,220,1,"[('Rust', 98.6), ('Makefile', 1.1)]",False,False,MPL-2.0 license
+10,https://github.com/reacherhq/backend,60,216,1,"[('Rust', 76.6), ('PLpgSQL', 21.6), ('Dockerfile', 1.6)]",False,False,
+11,https://github.com/antoyo/titanium,14,211,1,"[('Rust', 99.0)]",False,False,MIT license
+12,https://github.com/async-rs/async-task,19,211,1,"[('Rust', 100.0)]",False,False,
+13,https://github.com/ghmagazine/rustbook,42,210,1,"[('Rust', 97.6), ('Python', 1.1)]",False,False,BSD-3-Clause license
+14,https://github.com/HMBSbige/get_cnip,54,207,1,"[('Rust', 100.0)]",False,False,MIT license
+15,https://github.com/TheRawMeatball/meme-cli,6,199,1,"[('Rust', 100.0)]",False,False,
+16,https://github.com/iliana/rust-crowbar,16,197,1,"[('Rust', 73.1), ('Python', 26.2), ('Makefile', 0.7)]",False,False,
+17,https://github.com/takahirox/nes-rust,22,196,1,"[('Rust', 64.5), ('HTML', 17.9), ('JavaScript', 17.5), ('Shell', 0.1)]",False,False,MIT license
+18,https://github.com/ethanhs/cce,14,194,1,"[('Rust', 82.2), ('Shell', 14.6), ('PowerShell', 3.2)]",False,False,MIT license
+19,https://github.com/veorq/oee,11,192,1,"[('Rust', 100.0)]",False,False,Unlicense license
+20,https://github.com/miselin/rustic,17,188,1,"[('Rust', 81.4), ('Assembly', 12.9), ('RenderScript', 3.9), ('Makefile', 1.8)]",False,False,View license
+21,https://github.com/thejpster/monotron,9,188,1,"[('Rust', 74.5), ('C', 21.6), ('Python', 1.6), ('C++', 1.2), ('Meson', 0.6), ('GDB', 0.4), ('Shell', 0.1)]",False,False,
+22,https://github.com/awelkie/RustFFT,18,188,1,"[('Rust', 100.0)]",False,False,
+23,https://github.com/thehydroimpulse/postgres-extension.rs,22,185,1,"[('Rust', 100.0)]",False,False,
+24,https://github.com/nickbabcock/rrinlog,14,183,1,"[('Rust', 99.0), ('RenderScript', 1.0)]",False,False,MIT license
+25,https://github.com/paritytech/parity-zcash,47,183,1,"[('Rust', 99.7), ('Shell', 0.3)]",False,False,GPL-3.0 license
+26,https://github.com/cargonauts-rs/cargonauts,11,179,1,"[('Rust', 100.0)]",False,False,
+27,https://github.com/chriskrycho/newrustacean.com,29,176,1,"[('Rust', 95.2), ('HTML', 2.3), ('CSS', 1.2)]",False,False,View license
+28,https://github.com/kaedroho/rusticsearch,6,174,1,"[('Rust', 100.0)]",False,False,Apache-2.0 license
+29,https://github.com/k0pernicus/zou,12,174,1,"[('Rust', 100.0)]",False,False,MIT license
+30,https://github.com/HeroesGrave/ecs-rs,17,173,1,"[('Rust', 100.0)]",False,False,MIT license
+31,https://github.com/RustAudio/synth,18,172,1,"[('Rust', 100.0)]",False,False,MIT license
+32,https://github.com/mcarton/rust-herbie-lint,4,171,1,"[('Rust', 99.9), ('Shell', 0.1)]",False,False,MPL-2.0 license
+33,https://github.com/flavray/avro-rs,94,169,1,"[('Rust', 99.6)]",False,False,MIT license
+34,https://github.com/frostly/rust-slack,49,168,1,"[('Rust', 100.0)]",False,False,
+35,https://github.com/s-panferov/deuterium,12,168,1,"[('Rust', 100.0)]",False,False,MIT license
+36,https://github.com/ivanceras/old-rustorm,13,165,1,"[('Rust', 78.6), ('SQLPL', 20.9)]",False,False,MIT license
+37,https://github.com/iron/router,73,164,1,"[('Rust', 100.0)]",False,False,
+38,https://github.com/semantic-rs/semantic-rs,17,164,1,"[('Rust', 81.3), ('Shell', 18.3), ('Makefile', 0.4)]",False,False,MIT license
+39,https://github.com/softprops/cargo-thanks,9,162,1,"[('Rust', 100.0)]",False,False,MIT license
+40,https://github.com/softprops/cargo-thanks,9,162,1,"[('Rust', 100.0)]",False,False,MIT license
+41,https://github.com/blt/bughunt-rust,8,160,1,"[('Rust', 95.7), ('Shell', 4.3)]",False,False,MIT license
+42,https://github.com/mikispag/bitiodine,55,160,1,"[('Rust', 100.0)]",False,False,MIT license
+43,https://github.com/Shnatsel/libdiffuzz,9,159,1,"[('Rust', 100.0)]",False,False,Apache-2.0 license
+44,https://github.com/zesterer/forge,2,159,1,"[('Rust', 100.0)]",False,False,
+45,https://github.com/clap-rs/paw,4,159,1,"[('Rust', 100.0)]",False,False,
+46,https://github.com/rustwasm/rust-parcel-template,18,157,1,"[('Rust', 57.3), ('JavaScript', 33.6), ('HTML', 9.1)]",False,False,
+47,https://github.com/saligrama/concache,14,155,1,"[('Rust', 97.0), ('R', 2.6), ('Shell', 0.4)]",False,False,
+48,https://github.com/pveyes/naskah,11,155,1,"[('Rust', 99.6), ('Shell', 0.4)]",False,False,MIT license
+49,https://github.com/iqlusioninc/cargo-rpm,27,153,1,"[('Rust', 97.9), ('Handlebars', 2.1)]",False,False,Apache-2.0 license
+50,https://github.com/Clikengo/foundationdb-rs,28,153,1,"[('Rust', 60.1), ('C', 39.3)]",False,False,
+51,https://github.com/steveklabnik/doxidize,8,152,1,"[('Rust', 89.6), ('HTML', 10.4)]",False,False,
+52,https://github.com/Hentioe/mikack-cli,10,152,1,"[('Rust', 93.8), ('HTML', 4.6), ('CSS', 1.6)]",False,False,
+53,https://github.com/InQuicker/ktmpl,19,152,1,"[('Rust', 96.5), ('Makefile', 3.5)]",False,False,MIT license
+54,https://github.com/cpjreynolds/rustty,14,150,1,"[('Rust', 100.0)]",False,False,MIT license
+55,https://github.com/andrewjstone/rabble,9,149,1,"[('Rust', 100.0)]",False,False,Apache-2.0 license
+56,https://github.com/sunchao/parquet-rs,19,148,1,"[('Rust', 99.7), ('Shell', 0.3)]",False,False,Apache-2.0 license
+57,https://github.com/assert-rs/assert_cli,21,147,1,"[('Rust', 100.0)]",False,False,
+58,https://github.com/tezedge/tezedge,57,147,1,"[('Rust', 98.0), ('Python', 1.3)]",False,False,MIT license
+59,https://github.com/andybarron/app-dirs-rs,30,146,1,"[('Rust', 100.0)]",False,False,
+60,https://github.com/jwilm/racerd,24,135,1,"[('Rust', 91.9), ('Python', 6.7)]",False,False,Apache-2.0 license
+61,https://github.com/raymontag/rust-keepass,7,134,1,"[('Rust', 100.0)]",False,False,ISC license
+62,https://github.com/johannhof/markdown.rs,43,134,1,"[('Rust', 100.0)]",False,False,
+63,https://github.com/InQuicker/kaws,11,132,1,"[('Rust', 72.3), ('HCL', 26.8), ('Makefile', 0.9)]",False,False,MIT license
+64,https://github.com/wycats/rust-activesupport,5,132,1,"[('Rust', 100.0)]",False,False,
+65,https://github.com/TomBebbington/js.rs,12,132,1,"[('Rust', 99.0), ('JavaScript', 1.0)]",False,False,MIT license
+66,https://github.com/ntrupin/abstractml,15,130,1,"[('Rust', 55.0), ('JavaScript', 43.8), ('HTML', 1.2)]",False,False,Apache-2.0 license
+67,https://github.com/acidnik/ppcp,9,130,1,"[('Rust', 100.0)]",False,False,MIT license
+68,https://github.com/carllerche/syncbox,14,130,1,"[('Rust', 99.5), ('Shell', 0.5)]",False,False,
+69,https://github.com/harryfei/sugar-rs,6,130,1,"[('Rust', 100.0)]",False,False,
+70,https://github.com/passcod/catflap,4,140,1,"[('Rust', 97.5), ('JavaScript', 2.5)]",False,False,
+71,https://github.com/quininer/sarkara,9,140,1,"[('Rust', 100.0)]",False,False,MIT license
+72,https://github.com/OctaneWeb/Octane,5,140,1,"[('Rust', 99.5)]",False,False,MIT license
+73,https://github.com/ptal/oak,14,139,1,"[('Rust', 100.0)]",False,False,Apache-2.0 license
+74,https://github.com/stevedonovan/runner,5,139,1,"[('Rust', 100.0)]",False,False,MIT license
+75,https://github.com/IronCoreLabs/recrypt-rs,23,139,1,"[('Rust', 99.8), ('Nix', 0.2)]",False,False,AGPL-3.0 license
+76,https://github.com/zetok/tox,8,139,1,"[('Rust', 99.4), ('Shell', 0.6)]",False,False,GPL-3.0 license
+77,https://github.com/orf/dirscan,7,137,1,"[('Rust', 98.9), ('Dockerfile', 1.1)]",False,False,MIT license
+78,https://github.com/mithi/rusty-genes,14,136,1,"[('Rust', 70.8), ('Python', 29.2)]",False,False,MIT license
+79,https://github.com/rust-lang-deprecated/tempdir,27,136,1,"[('Rust', 100.0)]",False,False,
+80,https://github.com/mozilla/janus-plugin-sfu,43,136,1,"[('Rust', 86.6), ('JavaScript', 11.0), ('HTML', 1.9), ('Makefile', 0.5)]",False,False,MPL-2.0 license
+81,https://github.com/meqif/rust-utp,28,136,1,"[('Rust', 100.0)]",False,False,
+82,https://github.com/jwilm/racerd,24,135,1,"[('Rust', 91.9), ('Python', 6.7)]",False,False,Apache-2.0 license
+83,https://github.com/raymontag/rust-keepass,7,134,1,"[('Rust', 100.0)]",False,False,ISC license
+84,https://github.com/johannhof/markdown.rs,43,134,1,"[('Rust', 100.0)]",False,False,
+85,https://github.com/InQuicker/kaws,11,132,1,"[('Rust', 72.3), ('HCL', 26.8), ('Makefile', 0.9)]",False,False,MIT license
+86,https://github.com/ffwff/hana,7,132,1,"[('Rust', 80.1), ('C', 19.9)]",False,False,GPL-3.0 license
+87,https://github.com/wycats/rust-activesupport,5,132,1,"[('Rust', 100.0)]",False,False,
+88,https://github.com/TomBebbington/js.rs,12,132,1,"[('Rust', 99.0), ('JavaScript', 1.0)]",False,False,MIT license
+89,https://github.com/ntrupin/abstractml,15,130,1,"[('Rust', 55.0), ('JavaScript', 43.8), ('HTML', 1.2)]",False,False,Apache-2.0 license
+90,https://github.com/ntrupin/abstractml,15,130,1,"[('Rust', 55.0), ('JavaScript', 43.8), ('HTML', 1.2)]",False,False,Apache-2.0 license
+91,https://github.com/acidnik/ppcp,9,130,1,"[('Rust', 100.0)]",False,False,MIT license
+92,https://github.com/carllerche/syncbox,14,130,1,"[('Rust', 99.5), ('Shell', 0.5)]",False,False,
+93,https://github.com/harryfei/sugar-rs,6,130,1,"[('Rust', 100.0)]",False,False,
+94,https://github.com/calavera/aws-lambda-events,56,129,1,"[('Rust', 100.0)]",False,False,MIT license
+95,https://github.com/standbyme/jvm-rs,10,129,1,"[('Rust', 99.6), ('Java', 0.4)]",False,False,MIT license
+96,https://github.com/mistodon/gfx-hal-tutorials,20,129,1,"[('Rust', 97.3), ('GLSL', 2.0), ('Shell', 0.7)]",False,False,
+97,https://github.com/fitzgen/oxischeme,8,128,1,"[('Rust', 91.7), ('Scheme', 7.8), ('Shell', 0.5)]",False,False,Apache-2.0 license
+98,https://github.com/RustyVolley/RustyVolleySrc,14,128,1,"[('Rust', 100.0)]",False,False,
+99,https://github.com/sector-f/admiral,3,128,1,"[('Rust', 89.6), ('Shell', 10.4)]",False,False,BSD-2-Clause license
+100,https://github.com/reasonml-old/rebel,16,122,1,"[('Rust', 98.6), ('Shell', 1.4)]",False,False,
+101,https://github.com/seed-rs/seed-rs-realworld,19,121,1,"[('Rust', 99.3), ('HTML', 0.7)]",False,False,MIT license
+102,https://github.com/vorner/corona,8,120,1,"[('Rust', 98.8), ('Perl', 1.2)]",False,False,
+103,https://github.com/redox-os/games,39,120,1,"[('Rust', 100.0)]",False,False,MIT license
+104,https://github.com/manuels/bulletinboard-dht,6,120,1,"[('Rust', 92.1), ('Shell', 6.5)]",False,False,GPL-2.0 license
+105,https://github.com/kennytm/cov,9,120,1,"[('Rust', 85.1), ('JavaScript', 8.1), ('HTML', 3.7), ('Python', 1.5), ('CSS', 1.4), ('C++', 0.2)]",False,False,MIT license
+106,https://github.com/int08h/roughenough,20,120,1,"[('Rust', 99.2), ('Dockerfile', 0.8)]",False,False,Apache-2.0 license
+107,https://github.com/openzklib/openzl,14,119,1,"[('Rust', 95.2), ('Sage', 4.8)]",False,False,View license
+108,https://github.com/iwilsonq/rust-graphql-example,16,118,1,"[('Rust', 77.0), ('PLpgSQL', 17.9), ('TSQL', 5.1)]",False,False,
+109,https://github.com/tendermint/rust-abci,36,117,1,"[('Rust', 99.8), ('Makefile', 0.2)]",False,False,Apache-2.0 license
+110,https://github.com/jshrake/grimoire-legacy,7,122,1,"[('Rust', 99.8)]",False,False,
+111,https://github.com/reasonml-old/rebel,16,122,1,"[('Rust', 98.6), ('Shell', 1.4)]",False,False,
+112,https://github.com/vitorenesduarte/fantoch,15,122,1,"[('Rust', 99.0)]",False,False,
+113,https://github.com/seed-rs/seed-rs-realworld,19,121,1,"[('Rust', 99.3), ('HTML', 0.7)]",False,False,MIT license
+114,https://github.com/yingDev/rxrs,4,121,1,"[('Rust', 100.0)]",False,False,
+115,https://github.com/vorner/corona,8,120,1,"[('Rust', 98.8), ('Perl', 1.2)]",False,False,
+116,https://github.com/sgrif/swirl,11,120,1,"[('Rust', 99.7), ('RenderScript', 0.3)]",False,False,
+117,https://github.com/redox-os/games,39,120,1,"[('Rust', 100.0)]",False,False,MIT license
+118,https://github.com/manuels/bulletinboard-dht,6,120,1,"[('Rust', 92.1), ('Shell', 6.5)]",False,False,GPL-2.0 license
+119,https://github.com/kennytm/cov,9,120,1,"[('Rust', 85.1), ('JavaScript', 8.1), ('HTML', 3.7), ('Python', 1.5), ('CSS', 1.4), ('C++', 0.2)]",False,False,MIT license
+120,https://github.com/sgrif/swirl,11,120,1,"[('Rust', 99.7), ('RenderScript', 0.3)]",False,False,
+121,https://github.com/redox-os/games,39,120,1,"[('Rust', 100.0)]",False,False,MIT license
+122,https://github.com/manuels/bulletinboard-dht,6,120,1,"[('Rust', 92.1), ('Shell', 6.5)]",False,False,GPL-2.0 license
+123,https://github.com/kennytm/cov,9,120,1,"[('Rust', 85.1), ('JavaScript', 8.1), ('HTML', 3.7), ('Python', 1.5), ('CSS', 1.4), ('C++', 0.2)]",False,False,MIT license
+124,https://github.com/int08h/roughenough,20,120,1,"[('Rust', 99.2), ('Dockerfile', 0.8)]",False,False,Apache-2.0 license
+125,https://github.com/openzklib/openzl,14,119,1,"[('Rust', 95.2), ('Sage', 4.8)]",False,False,View license
+126,https://github.com/iwilsonq/rust-graphql-example,16,118,1,"[('Rust', 77.0), ('PLpgSQL', 17.9), ('TSQL', 5.1)]",False,False,
+127,https://github.com/tendermint/rust-abci,36,117,1,"[('Rust', 99.8), ('Makefile', 0.2)]",False,False,Apache-2.0 license
+128,https://github.com/jkarns275/stdgba,6,117,1,"[('Rust', 99.9), ('Makefile', 0.1)]",False,False,MIT license
+129,https://github.com/oxidecomputer/third-party-api-clients,48,117,1,"[('Rust', 99.9), ('Makefile', 0.1)]",False,False,MIT license
+130,https://github.com/japaric/stm32f103xx-hal,40,115,1,"[('Rust', 97.7), ('Shell', 1.8)]",False,False,
+131,https://github.com/exclave/exclave,13,115,1,"[('Rust', 83.2), ('PowerShell', 15.5)]",False,False,BSD-3-Clause license
+132,https://github.com/wasabeef/droid,6,115,1,"[('Rust', 100.0)]",False,False,Apache-2.0 license
+133,https://github.com/llogiq/metacollect,2,115,1,"[('Rust', 100.0)]",False,False,MPL-2.0 license
+134,https://github.com/iqlusioninc/veriform,8,115,1,"[('Rust', 100.0)]",False,False,Apache-2.0 license
+135,https://github.com/hjr3/php-rpm,12,114,1,"[('Rust', 92.4), ('C', 4.7), ('Shell', 2.0)]",False,False,
+136,https://github.com/gfx-rs/genmesh,28,114,1,"[('Rust', 100.0)]",False,False,Apache-2.0 license
+137,https://github.com/bobbin-rs/bobbin-cli,9,114,1,"[('Rust', 100.0)]",False,False,
+138,https://github.com/likr-sandbox/rust-webgl2-example,6,114,1,"[('Rust', 89.2), ('HTML', 10.8)]",False,False,MIT license
+139,https://github.com/dalek-cryptography/merlin,62,114,1,"[('Rust', 100.0)]",False,False,MIT license
+140,https://github.com/hjr3/php-rpm,12,114,1,"[('Rust', 92.4), ('C', 4.7), ('Shell', 2.0)]",False,False,
+141,https://github.com/gfx-rs/genmesh,28,114,1,"[('Rust', 100.0)]",False,False,Apache-2.0 license
+142,https://github.com/bobbin-rs/bobbin-cli,9,114,1,"[('Rust', 100.0)]",False,False,
+143,https://github.com/likr-sandbox/rust-webgl2-example,6,114,1,"[('Rust', 89.2), ('HTML', 10.8)]",False,False,MIT license
+144,https://github.com/dalek-cryptography/merlin,62,114,1,"[('Rust', 100.0)]",False,False,MIT license
+145,https://github.com/substrate-developer-hub/utxo-workshop,84,114,1,"[('Rust', 100.0)]",False,False,Unlicense license
+146,https://github.com/emberian/lets-build-a-compiler,7,114,1,"[('Rust', 100.0)]",False,False,
+147,https://github.com/gifnksm/power-assert-rs,5,113,1,"[('Rust', 100.0)]",False,False,MIT license
+148,https://github.com/typedruby/typedruby,0,113,1,"[('Rust', 75.0), ('C++', 9.2), ('Ragel', 8.4), ('Ruby', 6.9)]",False,False,MIT license
+149,https://github.com/to-mas-kral/Fearless-NES,7,113,1,"[('Rust', 100.0)]",False,False,GPL-3.0 license
+150,https://github.com/dtantsur/rust-dht,19,106,1,"[('Rust', 100.0)]",False,False,
+151,https://github.com/TeXitoi/blue-pill-quickstart,13,106,1,"[('Rust', 79.3), ('GDB', 12.2), ('Logos', 8.5)]",False,False,MIT license
+152,https://github.com/luqmana/wireguard-uwp-rs,6,106,1,"[('Rust', 100.0)]",False,False,
+153,https://github.com/vnd/rarm,4,106,1,"[('Rust', 99.9), ('Shell', 0.1)]",False,False,View license
+154,https://github.com/AndrewJakubowicz/ggezFlappyCrabby,6,105,1,"[('Rust', 74.8), ('PLSQL', 25.2)]",False,False,MIT license
+155,https://github.com/Originate/scriptkeeper,4,104,1,"[('Rust', 98.7)]",False,False,MIT license
+156,https://github.com/rustic-games/jilu,6,103,1,"[('Rust', 100.0)]",False,False,
+157,https://github.com/anp/lolbench,12,103,1,"[('Rust', 97.7), ('HTML', 1.6)]",False,False,
+158,https://github.com/jedisct1/rust-nats,18,102,1,"[('Rust', 100.0)]",False,False,View license
+159,https://github.com/chyh1990/imageproc,6,102,1,"[('Rust', 100.0)]",False,False,MIT license
+160,https://github.com/dflemstr/v8-rs,16,108,1,"[('Rust', 75.9), ('C++', 18.1), ('C', 6.0)]",False,False,
+161,https://github.com/loyd/rscam,20,108,1,"[('Rust', 100.0)]",False,False,View license
+162,https://github.com/erickt/stateful,4,107,1,"[('Rust', 100.0)]",False,False,
+163,https://github.com/phsym/shrust,9,107,1,"[('Rust', 100.0)]",False,False,MIT license
+164,https://github.com/PieterPenninckx/rsynth,3,106,1,"[('Rust', 100.0)]",False,False,
+165,https://github.com/michiel/jsonapi-rust,28,106,1,"[('Rust', 100.0)]",False,False,MIT license
+166,https://github.com/kitfre/Kinder,3,106,1,"[('Rust', 100.0)]",False,False,MIT license
+167,https://github.com/dtantsur/rust-dht,19,106,1,"[('Rust', 100.0)]",False,False,
+168,https://github.com/TeXitoi/blue-pill-quickstart,13,106,1,"[('Rust', 79.3), ('GDB', 12.2), ('Logos', 8.5)]",False,False,MIT license
+169,https://github.com/luqmana/wireguard-uwp-rs,6,106,1,"[('Rust', 100.0)]",False,False,
+170,https://github.com/seed-rs/seed-quickstart,28,102,1,"[('Rust', 73.1), ('HTML', 26.9)]",False,False,
+171,https://github.com/jedisct1/rust-nats,18,102,1,"[('Rust', 100.0)]",False,False,View license
+172,https://github.com/chyh1990/imageproc,6,102,1,"[('Rust', 100.0)]",False,False,MIT license
+173,https://github.com/tomjakubowski/json_macros,6,102,1,"[('Rust', 100.0)]",False,False,MIT license
+174,https://github.com/embly/embly,10,101,1,"[('Rust', 45.6), ('Go', 35.7), ('HTML', 5.7), ('JavaScript', 5.0), ('Shell', 2.1), ('HCL', 1.8)]",False,False,
+175,https://github.com/ewasm/ewasm-rust-api,14,101,1,"[('Rust', 100.0)]",False,False,Apache-2.0 license
+176,https://github.com/compass-rs/sass-rs,23,101,1,"[('Rust', 100.0)]",False,False,MIT license
+177,https://github.com/swindon-rs/swindon,11,100,1,"[('Rust', 72.7), ('Python', 23.9), ('Smarty', 2.6)]",False,False,
+178,https://github.com/posix4e/rust-metrics,19,100,1,"[('Rust', 98.4), ('Dockerfile', 1.1), ('Shell', 0.5)]",False,False,View license
+179,https://github.com/mopp/Axel,3,100,1,"[('Rust', 97.2), ('Assembly', 2.3)]",False,False,MIT license
+180,https://github.com/iCepa/tun2tor,16,98,1,"[('Rust', 97.8), ('Shell', 1.8), ('C', 0.4)]",False,False,MIT license
+181,https://github.com/ShareXin/ShareXin,5,98,1,"[('Rust', 89.3), ('Shell', 6.3), ('Makefile', 4.4)]",False,False,GPL-3.0 license
+182,https://github.com/ckkashyap/rustix,7,98,1,"[('Rust', 36.2), ('C', 27.1), ('C++', 18.9), ('Assembly', 9.5), ('Makefile', 8.3)]",False,False,MIT license
+183,https://github.com/roblabla/cargo-travis,13,98,1,"[('Rust', 100.0)]",False,False,
+184,https://github.com/fafhrd91/fectl,14,98,1,"[('Rust', 62.2), ('Python', 37.8)]",False,False,Apache-2.0 license
+185,https://github.com/rust-js/rjs,6,97,1,"[('Rust', 100.0)]",False,False,
+186,https://github.com/async-rs/async-log,4,97,1,"[('Rust', 100.0)]",False,False,
+187,https://github.com/gruberb/web-programming-in-rust,15,97,1,"[('Rust', 94.0), ('Dockerfile', 5.4), ('Procfile', 0.6)]",False,False,
+188,https://github.com/bgourlie/rs-nes,4,96,1,"[('Rust', 99.6)]",False,False,MIT license
+189,https://github.com/cgag/hostblock,7,96,1,"[('Rust', 100.0)]",False,False,AGPL-3.0 license
+190,https://github.com/iCepa/tun2tor,16,98,1,"[('Rust', 97.8), ('Shell', 1.8), ('C', 0.4)]",False,False,MIT license
+191,https://github.com/ShareXin/ShareXin,5,98,1,"[('Rust', 89.3), ('Shell', 6.3), ('Makefile', 4.4)]",False,False,GPL-3.0 license
+192,https://github.com/ckkashyap/rustix,7,98,1,"[('Rust', 36.2), ('C', 27.1), ('C++', 18.9), ('Assembly', 9.5), ('Makefile', 8.3)]",False,False,MIT license
+193,https://github.com/roblabla/cargo-travis,13,98,1,"[('Rust', 100.0)]",False,False,
+194,https://github.com/fafhrd91/fectl,14,98,1,"[('Rust', 62.2), ('Python', 37.8)]",False,False,Apache-2.0 license
+195,https://github.com/rust-js/rjs,6,97,1,"[('Rust', 100.0)]",False,False,
+196,https://github.com/async-rs/async-log,4,97,1,"[('Rust', 100.0)]",False,False,
+197,https://github.com/bgourlie/rs-nes,4,96,1,"[('Rust', 99.6)]",False,False,MIT license
+198,https://github.com/cgag/hostblock,7,96,1,"[('Rust', 100.0)]",False,False,AGPL-3.0 license
+199,https://github.com/ebobby/simple-raytracer,8,96,1,"[('Rust', 100.0)]",False,False,MIT license
+200,https://github.com/tcr/hoodlum,3,96,1,"[('Rust', 98.5), ('Verilog', 1.2), ('Shell', 0.3)]",False,False,
+201,https://github.com/sagebind/sluice,8,96,1,"[('Rust', 100.0)]",False,False,MIT license
+202,https://github.com/JoshMcguigan/timetrack,5,95,1,"[('Rust', 100.0)]",False,False,
+203,https://github.com/danclive/sincere,7,95,1,"[('Rust', 100.0)]",False,False,MIT license
+204,https://github.com/perceptia/skylane,2,95,1,"[('Rust', 100.0)]",False,False,
+205,https://github.com/tokio-rs/tokio-tls,35,95,1,"[('Rust', 100.0)]",False,False,
+206,https://github.com/mununki/rust_graphql_api_boilerplate,6,95,1,"[('Rust', 88.4), ('PLpgSQL', 9.1), ('Dockerfile', 2.5)]",False,False,MIT license
+207,https://github.com/bolinfest/opensnoop-native,8,95,1,"[('Rust', 47.9), ('C', 41.4), ('Python', 10.6), ('Shell', 0.1)]",False,False,Apache-2.0 license
+208,https://github.com/alexwennerberg/gourami,5,94,1,"[('Rust', 83.4), ('HTML', 11.3), ('CSS', 2.7), ('TSQL', 2.5), ('Shell', 0.1)]",False,False,AGPL-3.0 license
+209,https://github.com/jbaublitz/knock-out,13,94,1,"[('Rust', 93.5), ('C', 3.1), ('Makefile', 2.8), ('Shell', 0.6)]",False,False,GPL-2.0 license
+210,https://github.com/ujh/hamcrest-rust,30,90,1,"[('Rust', 100.0)]",False,False,
+211,https://github.com/purpleprotocol/purple_prototype,6,90,1,"[('Rust', 99.5)]",False,False,GPL-3.0 license
+212,https://github.com/Rust-Proof/rustproof,7,90,1,"[('Rust', 99.8), ('Shell', 0.2)]",False,False,
+213,https://github.com/honeypotio/searchspot,8,90,1,"[('Rust', 99.7), ('Dockerfile', 0.3)]",False,False,BSD-2-Clause license
+214,https://github.com/rustcc/forustm,18,90,1,"[('Rust', 57.9), ('HTML', 31.6), ('JavaScript', 7.6), ('CSS', 2.3)]",False,False,
+215,https://github.com/softprops/serverless-aws-rust-http,9,90,1,"[('Rust', 100.0)]",False,False,
+216,https://github.com/appsignal/mongo-rust-driver,21,90,1,"[('Rust', 100.0)]",False,False,
+217,https://github.com/tversteeg/castle-game,7,90,1,"[('Rust', 100.0)]",False,False,View license
+218,https://github.com/meh/dux,2,89,1,"[('Rust', 99.1), ('Nix', 0.9)]",False,False,GPL-3.0 license
+219,https://github.com/trixnz/rustsym,7,89,1,"[('Rust', 100.0)]",False,False,MIT license
+220,https://github.com/Bren2010/ecc,9,92,1,"[('Rust', 100.0)]",False,False,MIT license
+221,https://github.com/yewstack/yew_router,23,91,1,"[('Rust', 99.2), ('Shell', 0.8)]",False,False,
+222,https://github.com/giggio/speedtest,6,91,1,"[('Rust', 90.1), ('Makefile', 7.8), ('Dockerfile', 2.1)]",False,False,MIT license
+223,https://github.com/jwilm/chatbot,17,91,1,"[('Rust', 99.7), ('Makefile', 0.3)]",False,False,MIT license
+224,https://github.com/ujh/hamcrest-rust,30,90,1,"[('Rust', 100.0)]",False,False,
+225,https://github.com/purpleprotocol/purple_prototype,6,90,1,"[('Rust', 99.5)]",False,False,GPL-3.0 license
+226,https://github.com/Rust-Proof/rustproof,7,90,1,"[('Rust', 99.8), ('Shell', 0.2)]",False,False,
+227,https://github.com/honeypotio/searchspot,8,90,1,"[('Rust', 99.7), ('Dockerfile', 0.3)]",False,False,BSD-2-Clause license
+228,https://github.com/rustcc/forustm,18,90,1,"[('Rust', 57.9), ('HTML', 31.6), ('JavaScript', 7.6), ('CSS', 2.3)]",False,False,
+229,https://github.com/softprops/serverless-aws-rust-http,9,90,1,"[('Rust', 100.0)]",False,False,
+230,https://github.com/trixnz/rustsym,7,89,1,"[('Rust', 100.0)]",False,False,MIT license
+231,https://github.com/arthurprs/floki,11,89,1,"[('Rust', 100.0)]",False,False,MIT license
+232,https://github.com/metaparticle-io/sync,16,89,1,"[('Rust', 38.8), ('Go', 16.6), ('Java', 14.9), ('C#', 12.3), ('Python', 9.0), ('JavaScript', 7.9), ('Makefile', 0.5)]",False,False,MIT license
+233,https://github.com/sourcegraph/syntect_server,16,89,1,"[('Rust', 84.3), ('Dockerfile', 8.9), ('Shell', 6.8)]",False,False,
+234,https://github.com/rusty-ecma/RESS,9,89,1,"[('Rust', 99.6), ('JavaScript', 0.4)]",False,False,MIT license
+235,https://github.com/saschagrunert/rain,1,88,1,"[('Rust', 100.0)]",False,False,MIT license
+236,https://github.com/timvisee/ffsend-api,14,88,1,"[('Rust', 100.0)]",False,False,MIT license
+237,https://github.com/0xPolygonZero/r1cs,5,88,1,"[('Rust', 100.0)]",False,False,
+238,https://github.com/kenpratt/rusty_scheme,12,88,1,"[('Rust', 100.0)]",False,False,MIT license
+239,https://github.com/diwic/fdringbuf-rs,8,87,1,"[('Rust', 100.0)]",False,False,
+240,https://github.com/AnneKitsune/game_features,1,86,1,"[('Rust', 99.9), ('Shell', 0.1)]",False,False,Apache-2.0 license
+241,https://github.com/rphmeier/jobsteal,2,85,1,"[('Rust', 100.0)]",False,False,
+242,https://github.com/emk/toyos-rs,21,85,1,"[('Rust', 79.9), ('Assembly', 17.1), ('Makefile', 3.0)]",False,False,
+243,https://github.com/potocpav/xi_glium,13,85,1,"[('Rust', 100.0)]",False,False,MIT license
+244,https://github.com/ovh/beamium,21,84,1,"[('Rust', 99.1)]",False,False,View license
+245,https://github.com/WeareJH/config-gen,9,84,1,"[('Rust', 99.7)]",False,False,
+246,https://github.com/novacrazy/rust-softrender,3,84,1,"[('Rust', 98.1), ('Shell', 1.4), ('CMake', 0.5)]",False,False,
+247,https://github.com/ps1dr3x/easy_reader,6,84,1,"[('Rust', 100.0)]",False,False,Apache-2.0 license
+248,https://github.com/jroweboy/oxidize,6,84,1,"[('Rust', 72.0), ('Python', 27.5), ('Shell', 0.5)]",False,False,MIT license
+249,https://github.com/trsoluti/space_shooter,5,84,1,"[('Rust', 100.0)]",False,False,
+250,https://github.com/adevore/rudy,4,82,1,"[('Rust', 100.0)]",False,False,
+251,https://github.com/actix/actix-web-httpauth,36,82,1,"[('Rust', 100.0)]",False,False,
+252,https://github.com/afshinm/morq,0,82,1,"[('Rust', 100.0)]",False,False,MIT license
+253,https://github.com/JoshMcguigan/multi_try,2,81,1,"[('Rust', 100.0)]",False,False,
+254,https://github.com/tailhook/dns-parser,47,81,1,"[('Rust', 100.0)]",False,False,
+255,https://github.com/pholactery/eventsourcing,18,81,1,"[('Rust', 100.0)]",False,False,Apache-2.0 license
+256,https://github.com/erszcz/erlang-rust-nif,4,81,1,"[('Rust', 95.1), ('Makefile', 3.5), ('Erlang', 1.1), ('Shell', 0.3)]",False,False,
+257,https://github.com/expenses/line_drawing,14,81,1,"[('Rust', 100.0)]",False,False,MIT license
+258,https://github.com/SSheldon/rust-dispatch,17,81,1,"[('Rust', 98.5), ('Shell', 1.5)]",False,False,
+259,https://github.com/posix4e/rpgffi,7,81,1,"[('Rust', 100.0)]",False,False,
+260,https://github.com/bluss/bencher,16,82,1,"[('Rust', 100.0)]",False,False,
+261,https://github.com/davidblewett/rure-python,12,82,1,"[('Rust', 88.2), ('RenderScript', 5.8), ('C', 3.0), ('Python', 2.3), ('Shell', 0.3), ('D', 0.3)]",False,False,
+262,https://github.com/reem/rust-scoped-pool,8,82,1,"[('Rust', 100.0)]",False,False,
+263,https://github.com/thiagopnts/rustico,2,82,1,"[('Rust', 55.4), ('Assembly', 17.6), ('Makefile', 13.2), ('Shell', 12.7), ('GDB', 1.1)]",False,False,MIT license
+264,https://github.com/adevore/rudy,4,82,1,"[('Rust', 100.0)]",False,False,
+265,https://github.com/afshinm/morq,0,82,1,"[('Rust', 100.0)]",False,False,MIT license
+266,https://github.com/JoshMcguigan/multi_try,2,81,1,"[('Rust', 100.0)]",False,False,
+267,https://github.com/tailhook/dns-parser,47,81,1,"[('Rust', 100.0)]",False,False,
+268,https://github.com/erszcz/erlang-rust-nif,4,81,1,"[('Rust', 95.1), ('Makefile', 3.5), ('Erlang', 1.1), ('Shell', 0.3)]",False,False,
+269,https://github.com/expenses/line_drawing,14,81,1,"[('Rust', 100.0)]",False,False,MIT license
+270,https://github.com/SSheldon/rust-dispatch,17,81,1,"[('Rust', 98.5), ('Shell', 1.5)]",False,False,
+271,https://github.com/posix4e/rpgffi,7,81,1,"[('Rust', 100.0)]",False,False,
+272,https://github.com/huonw/simd,18,81,1,"[('Rust', 100.0)]",False,False,
+273,https://github.com/simias/gb-rs,6,81,1,"[('Rust', 100.0)]",False,False,MIT license
+274,https://github.com/tokio-rs/tokio-service,19,81,1,"[('Rust', 100.0)]",False,False,
+275,https://github.com/servo/gleam,62,81,1,"[('Rust', 100.0)]",False,False,
+276,https://github.com/davidMcneil/rants,11,81,1,"[('Rust', 100.0)]",False,False,
+277,https://github.com/tilpner/includedir,7,80,1,"[('Rust', 100.0)]",False,False,BSD-3-Clause license
+278,https://github.com/r-marques/doomfire,2,80,1,"[('Rust', 100.0)]",False,False,MIT license
+279,https://github.com/cetra3/lorikeet-dash,3,80,1,"[('Rust', 66.8), ('TypeScript', 18.2), ('SCSS', 12.1), ('JavaScript', 2.4), ('HTML', 0.5)]",False,False,
+280,https://github.com/bluss/bencher,16,82,1,"[('Rust', 100.0)]",False,False,
+281,https://github.com/reem/rust-scoped-pool,8,82,1,"[('Rust', 100.0)]",False,False,
+282,https://github.com/thiagopnts/rustico,2,82,1,"[('Rust', 55.4), ('Assembly', 17.6), ('Makefile', 13.2), ('Shell', 12.7), ('GDB', 1.1)]",False,False,MIT license
+283,https://github.com/adevore/rudy,4,82,1,"[('Rust', 100.0)]",False,False,
+284,https://github.com/actix/actix-web-httpauth,36,82,1,"[('Rust', 100.0)]",False,False,
+285,https://github.com/afshinm/morq,0,82,1,"[('Rust', 100.0)]",False,False,MIT license
+286,https://github.com/JoshMcguigan/multi_try,2,81,1,"[('Rust', 100.0)]",False,False,
+287,https://github.com/tailhook/dns-parser,47,81,1,"[('Rust', 100.0)]",False,False,
+288,https://github.com/pholactery/eventsourcing,18,81,1,"[('Rust', 100.0)]",False,False,Apache-2.0 license
+289,https://github.com/erszcz/erlang-rust-nif,4,81,1,"[('Rust', 95.1), ('Makefile', 3.5), ('Erlang', 1.1), ('Shell', 0.3)]",False,False,
+290,https://github.com/tokio-rs/tokio-service,19,81,1,"[('Rust', 100.0)]",False,False,
+291,https://github.com/servo/gleam,62,81,1,"[('Rust', 100.0)]",False,False,
+292,https://github.com/davidMcneil/rants,11,81,1,"[('Rust', 100.0)]",False,False,
+293,https://github.com/tilpner/includedir,7,80,1,"[('Rust', 100.0)]",False,False,BSD-3-Clause license
+294,https://github.com/emberian/hprof,11,80,1,"[('Rust', 100.0)]",False,False,BSL-1.0 license
+295,https://github.com/rhoot/bgfx-rs,9,80,1,"[('Rust', 99.6)]",False,False,ISC license
+296,https://github.com/H2CO3/avocado,2,80,1,"[('Rust', 100.0)]",False,False,MIT license
+297,https://github.com/0xSiO/bolt-rs,7,80,1,"[('Rust', 100.0)]",False,False,MPL-2.0 license
+298,https://github.com/jpernst/alto,27,80,1,"[('Rust', 100.0)]",False,False,
+299,https://github.com/ZcashFoundation/parity-zcash,14,80,1,"[('Rust', 99.8)]",False,False,GPL-3.0 license
+300,https://github.com/rusticata/der-parser,27,78,1,"[('Rust', 100.0)]",False,False,
+301,https://github.com/m4b/raml,5,78,1,"[('Rust', 97.5), ('Makefile', 2.5)]",False,False,
+302,https://github.com/aeplay/descartes,4,78,1,"[('Rust', 100.0)]",False,False,MIT license
+303,https://github.com/Nemo157/embrio-rs,10,78,1,"[('Rust', 100.0)]",False,False,
+304,https://github.com/jmquigs/ModelMod,11,77,1,"[('Rust', 48.8), ('F#', 38.0), ('Python', 8.6), ('C#', 3.7)]",False,False,LGPL-2.1 license
+305,https://github.com/crossbeam-rs/crossbeam-epoch,7,77,1,"[('Rust', 100.0)]",False,False,
+306,https://github.com/snipsco/rust-paillier,12,77,1,"[('Rust', 100.0)]",False,False,View license
+307,https://github.com/hjr3/mob,21,77,1,"[('Rust', 100.0)]",False,False,
+308,https://github.com/amethyst/grumpy_visitors,14,77,1,"[('Rust', 97.8), ('GLSL', 2.2)]",False,False,MIT license
+309,https://github.com/museumsvictoria/spatial_audio_server,13,77,1,"[('Rust', 100.0)]",False,False,
+310,https://github.com/PistonDevelopers/vecmath,14,76,1,"[('Rust', 100.0)]",False,False,MIT license
+311,https://github.com/Vinatorul/minesweeper-rs,9,76,1,"[('Rust', 100.0)]",False,False,MIT license
+312,https://github.com/rust-lang/rust-central-station,52,76,1,"[('Rust', 90.4), ('Shell', 5.1), ('Dockerfile', 4.5)]",False,False,
+313,https://github.com/dgraham/identicon,8,76,1,"[('Rust', 100.0)]",False,False,MIT license
+314,https://github.com/dpc/async-readline,7,76,1,"[('Rust', 100.0)]",False,False,MPL-2.0 license
+315,https://github.com/opentracing/opentracing-rust,7,76,1,"[('Rust', 100.0)]",False,False,Apache-2.0 license
+316,https://github.com/slide-rs/pulse,5,76,1,"[('Rust', 100.0)]",False,False,Apache-2.0 license
+317,https://github.com/anowell/wkhtmltopdf-rs,11,76,1,"[('Rust', 100.0)]",False,False,MIT license
+318,https://github.com/dhardy/pippin,4,76,1,"[('Rust', 99.2), ('Makefile', 0.8)]",False,False,
+319,https://github.com/layer5io/wasm-filters,31,76,1,"[('Rust', 75.1), ('Makefile', 18.3), ('Go', 3.4), ('Shell', 2.1), ('Dockerfile', 1.1)]",False,False,Apache-2.0 license
+320,https://github.com/tomusdrw/jsonrpc-proxy,16,80,1,"[('Rust', 100.0)]",False,False,GPL-3.0 license
+321,https://github.com/mbillingr/ambisonic,11,80,1,"[('Rust', 98.4), ('Python', 1.5), ('Shell', 0.1)]",False,False,
+322,https://github.com/forcia/rustbook,19,80,1,"[('Rust', 78.2), ('JavaScript', 12.2), ('HTML', 3.6), ('Shell', 1.9), ('Dockerfile', 1.9), ('GDB', 1.0)]",False,False,MIT license
+323,https://github.com/jpernst/alto,27,80,1,"[('Rust', 100.0)]",False,False,
+324,https://github.com/ZcashFoundation/parity-zcash,14,80,1,"[('Rust', 99.8)]",False,False,GPL-3.0 license
+325,https://github.com/tiannian/async-trait-static,3,80,1,"[('Rust', 100.0)]",False,False,
+326,https://github.com/drbawb/rust-story,4,80,1,"[('Rust', 100.0)]",False,False,
+327,https://github.com/greyblake/cargo-testify,5,80,1,"[('Rust', 100.0)]",False,False,MIT license
+328,https://github.com/PabloMansanet/subotai,6,79,1,"[('Rust', 100.0)]",False,False,MIT license
+329,https://github.com/chef-boneyard/delivery-cli,25,79,1,"[('Rust', 77.9), ('Gherkin', 13.6), ('Ruby', 6.9)]",False,False,Apache-2.0 license
+330,https://github.com/dhardy/pippin,4,76,1,"[('Rust', 99.2), ('Makefile', 0.8)]",False,False,
+331,https://github.com/layer5io/wasm-filters,31,76,1,"[('Rust', 75.1), ('Makefile', 18.3), ('Go', 3.4), ('Shell', 2.1), ('Dockerfile', 1.1)]",False,False,Apache-2.0 license
+332,https://github.com/pedrocr/chimper,3,76,1,"[('Rust', 99.9), ('Shell', 0.1)]",False,False,GPL-3.0 license
+333,https://github.com/anima-engine/anima-engine,4,76,1,"[('Rust', 100.0)]",False,False,MPL-2.0 license
+334,https://github.com/wapc/wapc-rust,10,76,1,"[('Rust', 100.0)]",False,False,Apache-2.0 license
+335,https://github.com/richardanaya/watson,3,76,1,"[('Rust', 99.9), ('Makefile', 0.1)]",False,False,
+336,https://github.com/riscv-rust/hifive1,16,76,1,"[('Rust', 92.3), ('Assembly', 5.7), ('Shell', 2.0)]",False,False,
+337,https://github.com/nccgroup/assethook,19,75,1,"[('Rust', 95.0), ('Shell', 5.0)]",False,False,BSD-2-Clause license
+338,https://github.com/daboross/rust-throw,5,75,1,"[('Rust', 100.0)]",False,False,MIT license
+339,https://github.com/aerospike/aerospike-client-rust,23,75,1,"[('Rust', 100.0)]",False,False,View license
+340,https://github.com/dpc/async-readline,7,76,1,"[('Rust', 100.0)]",False,False,MPL-2.0 license
+341,https://github.com/opentracing/opentracing-rust,7,76,1,"[('Rust', 100.0)]",False,False,Apache-2.0 license
+342,https://github.com/slide-rs/pulse,5,76,1,"[('Rust', 100.0)]",False,False,Apache-2.0 license
+343,https://github.com/llogiq/compact_arena,4,76,1,"[('Rust', 100.0)]",False,False,
+344,https://github.com/jakubadamw/rutenspitz,5,76,1,"[('Rust', 100.0)]",False,False,
+345,https://github.com/anowell/wkhtmltopdf-rs,11,76,1,"[('Rust', 100.0)]",False,False,MIT license
+346,https://github.com/layer5io/wasm-filters,31,76,1,"[('Rust', 75.1), ('Makefile', 18.3), ('Go', 3.4), ('Shell', 2.1), ('Dockerfile', 1.1)]",False,False,Apache-2.0 license
+347,https://github.com/pedrocr/chimper,3,76,1,"[('Rust', 99.9), ('Shell', 0.1)]",False,False,GPL-3.0 license
+348,https://github.com/anima-engine/anima-engine,4,76,1,"[('Rust', 100.0)]",False,False,MPL-2.0 license
+349,https://github.com/riscv-rust/hifive1,16,76,1,"[('Rust', 92.3), ('Assembly', 5.7), ('Shell', 2.0)]",False,False,
+350,https://github.com/aerospike/aerospike-client-rust,23,75,1,"[('Rust', 100.0)]",False,False,View license
+351,https://github.com/jeromefroe/tsz-rs,14,74,1,"[('Rust', 100.0)]",False,False,MIT license
+352,https://github.com/jiegec/cs140e,14,74,1,"[('Rust', 98.9)]",False,False,
+353,https://github.com/carllerche/kabuki,4,74,1,"[('Rust', 100.0)]",False,False,
+354,https://github.com/linuxfood/rustsqlite,30,74,1,"[('Rust', 100.0)]",False,False,View license
+355,https://github.com/jamesmunns/teensy3-rs,11,74,1,"[('Rust', 99.3), ('C++', 0.7)]",False,False,
+356,https://github.com/matter-labs/hodor,15,74,1,"[('Rust', 99.9), ('Shell', 0.1)]",False,False,
+357,https://github.com/fitzgen/mach,27,74,1,"[('Rust', 97.6), ('Shell', 2.4)]",False,False,View license
+358,https://github.com/arboric/arboric,4,74,1,"[('Rust', 98.7), ('Dockerfile', 1.3)]",False,False,Apache-2.0 license
+359,https://github.com/nytopop/askii,6,74,1,"[('Rust', 93.8), ('Makefile', 5.9), ('Shell', 0.3)]",False,False,
+360,https://github.com/facebookarchive/witd,16,74,1,"[('Rust', 89.6), ('Shell', 10.4)]",False,False,View license
+361,https://github.com/andrew-d/emoji256,1,74,1,"[('Rust', 78.6), ('Shell', 17.6), ('PowerShell', 3.8)]",False,False,
+362,https://github.com/OneSignal/serde-redis,19,74,1,"[('Rust', 100.0)]",False,False,
+363,https://github.com/withoutboats/burrito,0,74,1,"[('Rust', 100.0)]",False,False,GPL-3.0 license
+364,https://github.com/MailRuChamps/raic-2019,45,74,1,"[('Rust', 26.8), ('C++', 10.0), ('Java', 9.1), ('C#', 7.1), ('Kotlin', 7.1), ('D', 6.8)]",False,False,GPL-3.0 license
+365,https://github.com/andyleejordan/rust-genetic-algorithm,8,73,1,"[('Rust', 100.0)]",False,False,AGPL-3.0 license
+366,https://github.com/ShogunPanda/alfred-chrome,15,73,1,"[('Rust', 86.8), ('Makefile', 13.2)]",False,False,MIT license
+367,https://github.com/apessino/modulator_play,7,73,1,"[('Rust', 100.0)]",False,False,MIT license
+368,https://github.com/hyperledger-archives/sawtooth-seth,73,73,1,"[('Rust', 42.0), ('Go', 34.3), ('Python', 19.5), ('Dockerfile', 3.0)]",False,False,Apache-2.0 license
+369,https://github.com/perfah/Rustland,1,73,1,"[('Rust', 100.0)]",False,False,
+370,https://github.com/abonander/multipart-async,19,72,1,"[('Rust', 98.9)]",False,False,
+371,https://github.com/joelself/tomllib,9,72,1,"[('Rust', 100.0)]",False,False,MIT license
+372,https://github.com/przygienda/dot-rust,29,72,1,"[('Rust', 100.0)]",False,False,
+373,https://github.com/oasislabs/oasis-rs,16,72,1,"[('Rust', 99.7), ('Dockerfile', 0.3)]",False,False,Apache-2.0 license
+374,https://github.com/ZenGo-X/bulletproofs,42,72,1,"[('Rust', 100.0)]",False,False,GPL-3.0 license
+375,https://github.com/SakaDream/rocket-rest-api-with-jwt,13,72,1,"[('Rust', 88.9), ('Dockerfile', 6.8), ('PLpgSQL', 4.3)]",False,False,MIT license
+376,https://github.com/avalarin/elasticsearch-cli,4,71,1,"[('Rust', 98.4), ('Shell', 1.6)]",False,False,MIT license
+377,https://github.com/tokahuke/yaque,10,71,1,"[('Rust', 100.0)]",False,False,View license
+378,https://github.com/filipdulic/bus-queue,11,71,1,"[('Rust', 100.0)]",False,False,
+379,https://github.com/rise-ui/rise,5,71,1,"[('Rust', 100.0)]",False,False,
+380,https://github.com/jmatraszek/haxonite,2,74,1,"[('Rust', 99.1), ('Dockerfile', 0.9)]",False,False,Apache-2.0 license
+381,https://github.com/kylewlacy/lochnes,4,74,1,"[('Rust', 100.0)]",False,False,MIT license
+382,https://github.com/facebookarchive/witd,16,74,1,"[('Rust', 89.6), ('Shell', 10.4)]",False,False,View license
+383,https://github.com/andrew-d/emoji256,1,74,1,"[('Rust', 78.6), ('Shell', 17.6), ('PowerShell', 3.8)]",False,False,
+384,https://github.com/withoutboats/burrito,0,74,1,"[('Rust', 100.0)]",False,False,GPL-3.0 license
+385,https://github.com/OneSignal/serde-redis,19,74,1,"[('Rust', 100.0)]",False,False,
+386,https://github.com/MailRuChamps/raic-2019,45,74,1,"[('Rust', 26.8), ('C++', 10.0), ('Java', 9.1), ('C#', 7.1), ('Kotlin', 7.1), ('D', 6.8)]",False,False,GPL-3.0 license
+387,https://github.com/andyleejordan/rust-genetic-algorithm,8,73,1,"[('Rust', 100.0)]",False,False,AGPL-3.0 license
+388,https://github.com/ShogunPanda/alfred-chrome,15,73,1,"[('Rust', 86.8), ('Makefile', 13.2)]",False,False,MIT license
+389,https://github.com/hyperledger-archives/sawtooth-seth,73,73,1,"[('Rust', 42.0), ('Go', 34.3), ('Python', 19.5), ('Dockerfile', 3.0)]",False,False,Apache-2.0 license
+390,https://github.com/softprops/lando,3,69,1,"[('Rust', 97.5), ('Shell', 1.2)]",False,False,MIT license
+391,https://github.com/bfil/exar-db,1,69,1,"[('Rust', 66.6), ('JavaScript', 21.1), ('TypeScript', 8.0), ('HTML', 3.7)]",False,False,AGPL-3.0 license
+392,https://github.com/arabidopsis/typescript-definitions,19,69,1,"[('Rust', 94.8), ('HTML', 3.2), ('Makefile', 2.0)]",False,False,
+393,https://github.com/cfsamson/examples-minimio,24,69,1,"[('Rust', 100.0)]",False,False,MIT license
+394,https://github.com/Ralith/quicr,4,68,1,"[('Rust', 99.9), ('Nix', 0.1)]",False,False,
+395,https://github.com/aatxe/alectro,4,68,1,"[('Rust', 100.0)]",False,False,GPL-3.0 license
+396,https://github.com/vandenoever/rome,3,68,1,"[('Rust', 100.0)]",False,False,AGPL-3.0 license
+397,https://github.com/briansmith/crypto-bench,14,68,1,"[('Rust', 100.0)]",False,False,
+398,https://github.com/outersky/simple_excel_writer,27,68,1,"[('Rust', 100.0)]",False,False,Apache-2.0 license
+399,https://github.com/codahale/sketchy,3,68,1,"[('Rust', 100.0)]",False,False,View license
+400,https://github.com/schickling/beanstalkd-cli,5,69,1,"[('Rust', 92.1), ('Ruby', 7.9)]",False,False,
+401,https://github.com/aahancoc/tree_magic,15,69,1,"[('Rust', 100.0)]",False,False,MIT license
+402,https://github.com/luminalang/lumina,1,69,1,"[('Rust', 100.0)]",False,False,
+403,https://github.com/redox-os/orbital,11,69,1,"[('Rust', 99.6), ('Shell', 0.4)]",False,False,MIT license
+404,https://github.com/softprops/lando,3,69,1,"[('Rust', 97.5), ('Shell', 1.2)]",False,False,MIT license
+405,https://github.com/bfil/exar-db,1,69,1,"[('Rust', 66.6), ('JavaScript', 21.1), ('TypeScript', 8.0), ('HTML', 3.7)]",False,False,AGPL-3.0 license
+406,https://github.com/cfsamson/examples-minimio,24,69,1,"[('Rust', 100.0)]",False,False,MIT license
+407,https://github.com/aatxe/alectro,4,68,1,"[('Rust', 100.0)]",False,False,GPL-3.0 license
+408,https://github.com/vandenoever/rome,3,68,1,"[('Rust', 100.0)]",False,False,AGPL-3.0 license
+409,https://github.com/briansmith/crypto-bench,14,68,1,"[('Rust', 100.0)]",False,False,
+410,https://github.com/jmagnuson/canparse,20,64,1,"[('Rust', 100.0)]",False,False,
+411,https://github.com/Johni0702/mumble-web-proxy,23,64,1,"[('Rust', 96.3), ('Dockerfile', 2.3), ('Shell', 1.4)]",False,False,
+412,https://github.com/mystor/slag,3,64,1,"[('Rust', 100.0)]",False,False,MIT license
+413,https://github.com/cesarb/blake2-rfc,16,64,1,"[('Rust', 100.0)]",False,False,
+414,https://github.com/tokio-rs/tokio-line,21,64,1,"[('Rust', 99.7), ('Shell', 0.3)]",False,False,
+415,https://github.com/yoshuawuyts/memdb,5,64,1,"[('Rust', 100.0)]",False,False,
+416,https://github.com/asajeffrey/josephine,9,64,1,"[('Rust', 100.0)]",False,False,MPL-2.0 license
+417,https://github.com/ucarion/gaia,1,64,1,"[('Rust', 97.0), ('Shell', 2.1), ('GLSL', 0.9)]",False,False,
+418,https://github.com/johalun/echo,2,64,1,"[('Rust', 98.6), ('Python', 1.3)]",False,False,
+419,https://github.com/jedisct1/iptrap,18,63,1,"[('Rust', 100.0)]",False,False,View license
+420,https://github.com/brayniac/tic,4,71,1,"[('Rust', 100.0)]",False,False,
+421,https://github.com/isamert/scheme.rs,10,71,1,"[('Rust', 100.0)]",False,False,MIT license
+422,https://github.com/starrhorne/nes-rust,7,70,1,"[('Rust', 100.0)]",False,False,GPL-3.0 license
+423,https://github.com/maxmcc/rust-jvm,6,70,1,"[('Rust', 97.6), ('Java', 2.4)]",False,False,
+424,https://github.com/simon-whitehead/hakka,1,70,1,"[('Rust', 98.5), ('Assembly', 1.5)]",False,False,MIT license
+425,https://github.com/fengalin/media-toc,3,70,1,"[('Rust', 99.9), ('Python', 0.1)]",False,False,MIT license
+426,https://github.com/1Password/typeshare-old,2,70,1,"[('Rust', 100.0)]",False,False,MIT license
+427,https://github.com/tcr/corollary,5,70,1,"[('Rust', 90.3), ('Haskell', 9.7)]",False,False,
+428,https://github.com/janiorca/tinywin,9,70,1,"[('Rust', 100.0)]",False,False,MIT license
+429,https://github.com/nickelc/hpk,8,70,1,"[('Rust', 99.1), ('Shell', 0.9)]",False,False,GPL-3.0 license
+430,https://github.com/chowdhurya/rust-unidecode,12,67,1,"[('Rust', 99.9), ('Perl', 0.1)]",False,False,View license
+431,https://github.com/shuhei/colortty,3,66,1,"[('Rust', 100.0)]",False,False,MIT license
+432,https://github.com/Diggsey/query_interface,4,66,1,"[('Rust', 100.0)]",False,False,
+433,https://github.com/tailhook/ciruela,6,66,1,"[('Rust', 99.4)]",False,False,
+434,https://github.com/linkerd/tacho,6,66,1,"[('Rust', 100.0)]",False,False,Apache-2.0 license
+435,https://github.com/leops/rasen,2,66,1,"[('Rust', 100.0)]",False,False,MIT license
+436,https://github.com/anguslees/kubernetes-rs,4,66,1,"[('Rust', 100.0)]",False,False,Apache-2.0 license
+437,https://github.com/rust-bakery/nom-peg,6,66,1,"[('Rust', 100.0)]",False,False,GPL-3.0 license
+438,https://github.com/TomBebbington/llvm-rs,29,66,1,"[('Rust', 100.0)]",False,False,BSD-3-Clause license
+439,https://github.com/anderspitman/react_rust_webapp,3,66,1,"[('Rust', 54.4), ('JavaScript', 45.6)]",False,False,
+440,https://github.com/mplanchard/cuid-rust,14,67,1,"[('Rust', 93.7), ('Nix', 3.8), ('Makefile', 2.5)]",False,False,MIT license
+441,https://github.com/arcnmx/cargo-clippy,11,67,1,"[('Rust', 100.0)]",False,False,MIT license
+442,https://github.com/huytd/rust-webapp-template,6,67,1,"[('Rust', 74.9), ('CSS', 9.6), ('Makefile', 8.2), ('HTML', 7.3)]",False,False,
+443,https://github.com/livioribeiro/rusted-cypher,23,67,1,"[('Rust', 100.0)]",False,False,
+444,https://github.com/blahgeek/Minions,4,67,1,"[('Rust', 93.0), ('Python', 4.1), ('Shell', 2.8), ('CSS', 0.1)]",False,False,
+445,https://github.com/Centril/refl,3,67,1,"[('Rust', 96.7), ('Shell', 3.3)]",False,False,
+446,https://github.com/Gankra/collect-rs,21,67,1,"[('Rust', 99.1), ('Shell', 0.9)]",False,False,
+447,https://github.com/chowdhurya/rust-unidecode,12,67,1,"[('Rust', 99.9), ('Perl', 0.1)]",False,False,View license
+448,https://github.com/shuhei/colortty,3,66,1,"[('Rust', 100.0)]",False,False,MIT license
+449,https://github.com/Diggsey/query_interface,4,66,1,"[('Rust', 100.0)]",False,False,
+450,https://github.com/mahkoh/comm,10,66,1,"[('Rust', 96.5), ('CSS', 3.5)]",False,False,MIT license
+451,https://github.com/mopemope/firestarter,4,66,1,"[('Rust', 100.0)]",False,False,
+452,https://github.com/fitzgen/intrusive_splay_tree,4,66,1,"[('Rust', 98.2), ('Shell', 1.8)]",False,False,MPL-2.0 license
+453,https://github.com/adamgreig/ffp,6,66,1,"[('Rust', 94.7), ('Python', 5.3)]",False,False,
+454,https://github.com/mit-pdos/noria-mysql,15,66,1,"[('Rust', 100.0)]",False,False,MIT license
+455,https://github.com/amethyst/amethyst-imgui,18,66,1,"[('Rust', 92.7), ('GLSL', 3.2), ('Makefile', 2.8), ('Shell', 1.3)]",False,False,
+456,https://github.com/shawntabrizi/substrate-package,54,66,1,"[('Rust', 53.2), ('JavaScript', 44.3), ('HTML', 2.2), ('Shell', 0.3)]",False,False,Unlicense license
+457,https://github.com/brson/home,12,65,1,"[('Rust', 100.0)]",False,False,
+458,https://github.com/mmacedoeu/rulid.rs,3,65,1,"[('Rust', 100.0)]",False,False,MIT license
+459,https://github.com/steveklabnik/ruby-sys,14,65,1,"[('Rust', 100.0)]",False,False,
+460,https://github.com/jmagnuson/canparse,20,64,1,"[('Rust', 100.0)]",False,False,
+461,https://github.com/Johni0702/mumble-web-proxy,23,64,1,"[('Rust', 96.3), ('Dockerfile', 2.3), ('Shell', 1.4)]",False,False,
+462,https://github.com/mystor/slag,3,64,1,"[('Rust', 100.0)]",False,False,MIT license
+463,https://github.com/cesarb/blake2-rfc,16,64,1,"[('Rust', 100.0)]",False,False,
+464,https://github.com/tokio-rs/tokio-line,21,64,1,"[('Rust', 99.7), ('Shell', 0.3)]",False,False,
+465,https://github.com/yoshuawuyts/memdb,5,64,1,"[('Rust', 100.0)]",False,False,
+466,https://github.com/asajeffrey/josephine,9,64,1,"[('Rust', 100.0)]",False,False,MPL-2.0 license
+467,https://github.com/ucarion/gaia,1,64,1,"[('Rust', 97.0), ('Shell', 2.1), ('GLSL', 0.9)]",False,False,
+468,https://github.com/johalun/echo,2,64,1,"[('Rust', 98.6), ('Python', 1.3)]",False,False,
+469,https://github.com/jedisct1/iptrap,18,63,1,"[('Rust', 100.0)]",False,False,View license
+470,https://github.com/tomprogrammer/rust-ascii,19,62,1,"[('Rust', 100.0)]",False,False,
+471,https://github.com/not-fl3/tinyecs,0,62,1,"[('Rust', 100.0)]",False,False,
+472,https://github.com/gam0022/hanamaru-renderer,2,62,1,"[('Rust', 100.0)]",False,False,
+473,https://github.com/mjkillough/lanta,8,62,1,"[('Rust', 100.0)]",False,False,MIT license
+474,https://github.com/kobigurk/wasm_proof,5,62,1,"[('Rust', 97.9), ('HTML', 1.4)]",False,False,
+475,https://github.com/withoutboats/pbp,8,62,1,"[('Rust', 100.0)]",False,False,
+476,https://github.com/antoinealb/rust-demo-cortex-m4,9,62,1,"[('Rust', 71.2), ('C', 21.5), ('Makefile', 7.3)]",False,False,View license
+477,https://github.com/alilleybrinker/ruse,5,62,1,"[('Rust', 100.0)]",False,False,
+478,https://github.com/SpaceManiac/runtime-fmt,12,62,1,"[('Rust', 100.0)]",False,False,
+479,https://github.com/damienstanton/ctrs,3,62,1,"[('Rust', 100.0)]",False,False,MIT license
+480,https://github.com/kobigurk/wasm_proof,5,62,1,"[('Rust', 97.9), ('HTML', 1.4)]",False,False,
+481,https://github.com/withoutboats/pbp,8,62,1,"[('Rust', 100.0)]",False,False,
+482,https://github.com/antoinealb/rust-demo-cortex-m4,9,62,1,"[('Rust', 71.2), ('C', 21.5), ('Makefile', 7.3)]",False,False,View license
+483,https://github.com/goto-bus-stop/node-resolve,4,62,1,"[('Rust', 99.6), ('JavaScript', 0.4)]",False,False,View license
+484,https://github.com/pitkley/i3nator,0,62,1,"[('Rust', 95.4), ('Shell', 3.4), ('Python', 1.2)]",False,False,
+485,https://github.com/novacrazy/numeric-array,2,62,1,"[('Rust', 100.0)]",False,False,
+486,https://github.com/alilleybrinker/ruse,5,62,1,"[('Rust', 100.0)]",False,False,
+487,https://github.com/SpaceManiac/runtime-fmt,12,62,1,"[('Rust', 100.0)]",False,False,
+488,https://github.com/damienstanton/ctrs,3,62,1,"[('Rust', 100.0)]",False,False,MIT license
+489,https://github.com/niax/rust-email,37,62,1,"[('Rust', 99.6), ('Shell', 0.4)]",False,False,MIT license
+490,https://github.com/pitkley/i3nator,0,62,1,"[('Rust', 95.4), ('Shell', 3.4), ('Python', 1.2)]",False,False,
+491,https://github.com/novacrazy/numeric-array,2,62,1,"[('Rust', 100.0)]",False,False,
+492,https://github.com/goto-bus-stop/node-resolve,4,62,1,"[('Rust', 99.6), ('JavaScript', 0.4)]",False,False,View license
+493,https://github.com/pixix4/ev3dev-lang-rust,13,62,1,"[('Rust', 99.2)]",False,False,MIT license
+494,https://github.com/Srinivasa314/calcite,4,62,1,"[('Rust', 100.0)]",False,False,
+495,https://github.com/alilleybrinker/ruse,5,62,1,"[('Rust', 100.0)]",False,False,
+496,https://github.com/SpaceManiac/runtime-fmt,12,62,1,"[('Rust', 100.0)]",False,False,
+497,https://github.com/damienstanton/ctrs,3,62,1,"[('Rust', 100.0)]",False,False,MIT license
+498,https://github.com/niax/rust-email,37,62,1,"[('Rust', 99.6), ('Shell', 0.4)]",False,False,MIT license
+499,https://github.com/postmates/quantiles,7,62,1,"[('Rust', 100.0)]",False,False,MIT license
+500,https://github.com/asajeffrey/josephine,9,64,1,"[('Rust', 100.0)]",False,False,MPL-2.0 license
+501,https://github.com/gamebooster/soundboard,7,64,1,"[('Rust', 69.6), ('HTML', 22.9), ('JavaScript', 5.2), ('Python', 1.9), ('CSS', 0.4)]",False,False,AGPL-3.0 license
+502,https://github.com/ucarion/gaia,1,64,1,"[('Rust', 97.0), ('Shell', 2.1), ('GLSL', 0.9)]",False,False,
+503,https://github.com/johalun/echo,2,64,1,"[('Rust', 98.6), ('Python', 1.3)]",False,False,
+504,https://github.com/rcore-os/rCore_tutorial_doc,16,64,1,"[('Rust', 45.9), ('JavaScript', 28.6), ('Python', 11.3), ('HTML', 7.7), ('Shell', 6.5)]",False,False,
+505,https://github.com/jedisct1/iptrap,18,63,1,"[('Rust', 100.0)]",False,False,View license
+506,https://github.com/Hossein-Noroozpour/vulkust,2,63,1,"[('Rust', 96.5), ('GLSL', 3.1), ('HLSL', 0.4)]",False,False,
+507,https://github.com/lukaslueg/volkswagen,2,63,1,"[('Rust', 100.0)]",False,False,MIT license
+508,https://github.com/lesterli/rust-practice,17,63,1,"[('Rust', 63.9), ('C', 34.0)]",False,False,
+509,https://github.com/PoC-Consortium/engraver,40,63,1,"[('Rust', 83.0), ('C', 17.0)]",False,False,MIT license
+510,https://github.com/jedisct1/iptrap,18,63,1,"[('Rust', 100.0)]",False,False,View license
+511,https://github.com/Hossein-Noroozpour/vulkust,2,63,1,"[('Rust', 96.5), ('GLSL', 3.1), ('HLSL', 0.4)]",False,False,
+512,https://github.com/lukaslueg/volkswagen,2,63,1,"[('Rust', 100.0)]",False,False,MIT license
+513,https://github.com/lesterli/rust-practice,17,63,1,"[('Rust', 63.9), ('C', 34.0)]",False,False,
+514,https://github.com/PoC-Consortium/engraver,40,63,1,"[('Rust', 83.0), ('C', 17.0)]",False,False,MIT license
+515,https://github.com/fest-im/fest,5,63,1,"[('Rust', 93.7), ('Python', 6.3)]",False,False,GPL-3.0 license
+516,https://github.com/matter-labs/eip1962,21,63,1,"[('Rust', 59.1), ('Jupyter Notebook', 40.7)]",False,False,View license
+517,https://github.com/dsprenkels/sss-cli,22,63,1,"[('Rust', 100.0)]",False,False,MIT license
+518,https://github.com/maplant/mgf,2,63,1,"[('Rust', 99.8), ('GLSL', 0.2)]",False,False,LGPL-3.0 license
+519,https://github.com/iron/staticfile,56,63,1,"[('Rust', 100.0)]",False,False,MIT license
+520,https://github.com/jean-airoldie/libzmq-rs,4,59,1,"[('Rust', 100.0)]",False,False,
+521,https://github.com/vickenty/perl-xs,13,59,1,"[('Rust', 81.6), ('Perl', 17.5)]",False,False,BSD-2-Clause license
+522,https://github.com/ChosunOne/merkle_bit,10,59,1,"[('Rust', 100.0)]",False,False,View license
+523,https://github.com/fluxsocial/Junto,8,59,1,"[('Rust', 46.6), ('JavaScript', 23.5), ('Vue', 13.9), ('SCSS', 8.8), ('CSS', 7.1), ('HTML', 0.1)]",False,False,MIT license
+524,https://github.com/saurvs/hypervisor-rs,9,59,1,"[('Rust', 100.0)]",False,False,MIT license
+525,https://github.com/indiv0/lazycell,17,59,1,"[('Rust', 100.0)]",False,False,
+526,https://github.com/jhartwell/haml-rs,3,59,1,"[('Rust', 100.0)]",False,False,MIT license
+527,https://github.com/thehydroimpulse/moon,2,59,1,"[('Rust', 100.0)]",False,False,MIT license
+528,https://github.com/brson/cargo-crusader,3,59,1,"[('Rust', 100.0)]",False,False,
+529,https://github.com/rust-crates/ergo,3,59,1,"[('Rust', 100.0)]",False,False,
+530,https://github.com/apoelstra/coinjoin,22,61,1,"[('Rust', 79.0), ('Python', 11.9), ('Shell', 5.8), ('Makefile', 2.0), ('C', 1.3)]",False,False,CC0-1.0 license
+531,https://github.com/fitzgen/fart,8,61,1,"[('Rust', 95.3), ('JavaScript', 2.4)]",False,False,
+532,https://github.com/pyfisch/kinglet,2,61,1,"[('Rust', 100.0)]",False,False,View license
+533,https://github.com/angered-ghandi/OpenAOE,5,61,1,"[('Rust', 99.6), ('Shell', 0.4)]",False,False,View license
+534,https://github.com/woothee/woothee-rust,8,61,1,"[('Rust', 100.0)]",False,False,View license
+535,https://github.com/erickt/mre,10,61,1,"[('Rust', 98.1), ('Shell', 1.9)]",False,False,View license
+536,https://github.com/skyzh/raytracer-tutorial,4,61,1,"[('Rust', 98.1), ('Makefile', 1.9)]",False,False,MIT license
+537,https://github.com/andersk/enum_primitive-rs,22,61,1,"[('Rust', 100.0)]",False,False,MIT license
+538,https://github.com/liranringel/structure,4,61,1,"[('Rust', 100.0)]",False,False,
+539,https://github.com/rust-lang/libtest,20,61,1,"[('Rust', 99.4), ('Shell', 0.6)]",False,False,
+540,https://github.com/bodil/refpool,5,59,1,"[('Rust', 100.0)]",False,False,MPL-2.0 license
+541,https://github.com/Kixunil/genio,11,59,1,"[('Rust', 100.0)]",False,False,
+542,https://github.com/Electric-Coin-Company/jubjub-prototype,16,58,1,"[('Rust', 100.0)]",False,False,
+543,https://github.com/darkyzhou/seele,3,58,1,"[('Rust', 77.0), ('Go', 13.9), ('JavaScript', 6.0), ('C', 1.8), ('Dockerfile', 0.4), ('Shell', 0.4)]",False,False,MIT license
+544,https://github.com/tokio-rs/tokio-redis,10,58,1,"[('Rust', 100.0)]",False,False,
+545,https://github.com/brianp/muxed,2,58,1,"[('Rust', 94.8), ('Dockerfile', 3.4), ('Makefile', 1.4), ('Shell', 0.4)]",False,False,MIT license
+546,https://github.com/japaric-archived/cu,1,58,1,"[('Rust', 95.0), ('Shell', 4.9), ('GDB', 0.1)]",False,False,
+547,https://github.com/servo/rust-layers,43,58,1,"[('Rust', 100.0)]",False,False,
+548,https://github.com/rustgd/shrev-rs,12,58,1,"[('Rust', 100.0)]",False,False,
+549,https://github.com/cout970/Elm-interpreter,9,58,1,"[('Rust', 92.7), ('Elm', 7.3)]",False,False,MIT license
+550,https://github.com/thehydroimpulse/moon,2,59,1,"[('Rust', 100.0)]",False,False,MIT license
+551,https://github.com/brson/cargo-crusader,3,59,1,"[('Rust', 100.0)]",False,False,
+552,https://github.com/rust-crates/ergo,3,59,1,"[('Rust', 100.0)]",False,False,
+553,https://github.com/owo-lang/OwO,1,59,1,"[('Rust', 100.0)]",False,False,Apache-2.0 license
+554,https://github.com/Kixunil/btc-rpc-proxy,19,59,1,"[('Rust', 100.0)]",False,False,MIT license
+555,https://github.com/Geal/lovecraft,1,59,1,"[('Rust', 100.0)]",False,False,MIT license
+556,https://github.com/bodil/refpool,5,59,1,"[('Rust', 100.0)]",False,False,MPL-2.0 license
+557,https://github.com/ZoeyR/flif.rs,8,59,1,"[('Rust', 100.0)]",False,False,
+558,https://github.com/Kixunil/genio,11,59,1,"[('Rust', 100.0)]",False,False,
+559,https://github.com/Electric-Coin-Company/jubjub-prototype,16,58,1,"[('Rust', 100.0)]",False,False,
+560,https://github.com/brendanzab/algebra,9,60,1,"[('Rust', 100.0)]",False,False,Apache-2.0 license
+561,https://github.com/charsyam/hashids_rust,12,60,1,"[('Rust', 100.0)]",False,False,MIT license
+562,https://github.com/clrnd/win95-maze-rs,3,60,1,"[('Rust', 97.1), ('GLSL', 2.9)]",False,False,Apache-2.0 license
+563,https://github.com/dskkato/rjo,2,60,1,"[('Rust', 100.0)]",False,False,MIT license
+564,https://github.com/cryptosphere/macaroons-rs,5,60,1,"[('Rust', 100.0)]",False,False,MIT license
+565,https://github.com/meh/rorschach,2,59,1,"[('Rust', 100.0)]",False,False,
+566,https://github.com/jean-airoldie/libzmq-rs,4,59,1,"[('Rust', 100.0)]",False,False,
+567,https://github.com/vickenty/perl-xs,13,59,1,"[('Rust', 81.6), ('Perl', 17.5)]",False,False,BSD-2-Clause license
+568,https://github.com/ChosunOne/merkle_bit,10,59,1,"[('Rust', 100.0)]",False,False,View license
+569,https://github.com/fluxsocial/Junto,8,59,1,"[('Rust', 46.6), ('JavaScript', 23.5), ('Vue', 13.9), ('SCSS', 8.8), ('CSS', 7.1), ('HTML', 0.1)]",False,False,MIT license
+570,https://github.com/Kixunil/genio,11,59,1,"[('Rust', 100.0)]",False,False,
+571,https://github.com/Electric-Coin-Company/jubjub-prototype,16,58,1,"[('Rust', 100.0)]",False,False,
+572,https://github.com/darkyzhou/seele,3,58,1,"[('Rust', 77.0), ('Go', 13.9), ('JavaScript', 6.0), ('C', 1.8), ('Dockerfile', 0.4), ('Shell', 0.4)]",False,False,MIT license
+573,https://github.com/tokio-rs/tokio-redis,10,58,1,"[('Rust', 100.0)]",False,False,
+574,https://github.com/Pebaz/LambdaCore,3,58,1,"[('Rust', 94.5), ('PowerShell', 2.9), ('HTML', 2.5), ('Clojure', 0.1)]",False,False,MPL-2.0 license
+575,https://github.com/japaric-archived/cu,1,58,1,"[('Rust', 95.0), ('Shell', 4.9), ('GDB', 0.1)]",False,False,
+576,https://github.com/brianp/muxed,2,58,1,"[('Rust', 94.8), ('Dockerfile', 3.4), ('Makefile', 1.4), ('Shell', 0.4)]",False,False,MIT license
+577,https://github.com/servo/rust-layers,43,58,1,"[('Rust', 100.0)]",False,False,
+578,https://github.com/rustgd/shrev-rs,12,58,1,"[('Rust', 100.0)]",False,False,
+579,https://github.com/cout970/Elm-interpreter,9,58,1,"[('Rust', 92.7), ('Elm', 7.3)]",False,False,MIT license
+580,https://github.com/jedisct1/wasmsign,6,57,1,"[('Rust', 100.0)]",False,False,BSD-2-Clause license
+581,https://github.com/BonsaiDen/cobalt-rs,10,57,1,"[('Rust', 100.0)]",False,False,
+582,https://github.com/numeric-rust/numeric,9,57,1,"[('Rust', 100.0)]",False,False,MIT license
+583,https://github.com/wireapp/pqproteus,2,57,1,"[('Rust', 100.0)]",False,False,GPL-3.0 license
+584,https://github.com/cretz/prost-twirp,11,57,1,"[('Rust', 100.0)]",False,False,MIT license
+585,https://github.com/quickwit-oss/levenshtein-automata,14,57,1,"[('Rust', 100.0)]",False,False,MIT license
+586,https://github.com/dtolnay/gflags,6,57,1,"[('Rust', 100.0)]",False,False,
+587,https://github.com/segmentio/analytics-rust,13,57,1,"[('Rust', 100.0)]",False,False,MIT license
+588,https://github.com/jeremyletang/ears,26,57,1,"[('Rust', 98.8), ('Makefile', 1.2)]",False,False,MIT license
+589,https://github.com/rust-secure-code/cargo-repro,1,57,1,"[('Rust', 100.0)]",False,False,
+590,https://github.com/BurntSushi/winapi-util,13,55,1,"[('Rust', 100.0)]",False,False,
+591,https://github.com/msiglreith/inspirv-rust,1,55,1,"[('Rust', 99.6), ('GLSL', 0.4)]",False,False,View license
+592,https://github.com/PistonDevelopers/gfx_graphics,32,55,1,"[('Rust', 100.0)]",False,False,MIT license
+593,https://github.com/slide-rs/atom,7,55,1,"[('Rust', 100.0)]",False,False,Apache-2.0 license
+594,https://github.com/sekineh/binary-heap-plus-rs,17,55,1,"[('Rust', 100.0)]",False,False,MIT license
+595,https://github.com/openethereum/sol-rs,14,55,1,"[('Rust', 99.7), ('Shell', 0.3)]",False,False,GPL-3.0 license
+596,https://github.com/jinleili/sdf-text-view,2,55,1,"[('Rust', 71.4), ('Swift', 24.3), ('C', 3.4)]",False,False,
+597,https://github.com/dmitmel/sorting-visualization,11,55,1,"[('Rust', 99.4), ('Shell', 0.6)]",False,False,MIT license
+598,https://github.com/eclipse-fog05/fog05,26,55,1,"[('Rust', 92.7), ('Shell', 5.4)]",False,False,View license
+599,https://github.com/alexwlchan/backup-pinboard,8,55,1,"[('Rust', 100.0)]",False,False,MIT license
+600,https://github.com/rustgd/shrev-rs,12,58,1,"[('Rust', 100.0)]",False,False,
+601,https://github.com/cout970/Elm-interpreter,9,58,1,"[('Rust', 92.7), ('Elm', 7.3)]",False,False,MIT license
+602,https://github.com/phaazon/cargo-sync-readme,12,58,1,"[('Rust', 100.0)]",False,False,View license
+603,https://github.com/varjolintu/keepassxc-proxy-rust,16,58,1,"[('Rust', 100.0)]",False,False,GPL-3.0 license
+604,https://github.com/coder543/dataplotlib,6,58,1,"[('Rust', 100.0)]",False,False,
+605,https://github.com/Diggsey/lockless,4,58,1,"[('Rust', 100.0)]",False,False,
+606,https://github.com/finchers-rs/finchers,2,58,1,"[('Rust', 99.4), ('Shell', 0.6)]",False,False,
+607,https://github.com/s-panferov/deuterium-orm,6,58,1,"[('Rust', 100.0)]",False,False,MIT license
+608,https://github.com/CensoredUsername/whitespace-rs,3,58,1,"[('Rust', 99.8), ('Shell', 0.2)]",False,False,MPL-2.0 license
+609,https://github.com/wx-chevalier/coding-examples,15,58,1,"[('Rust', 74.3), ('Go', 25.5), ('Makefile', 0.2)]",False,False,MIT license
+610,https://github.com/wisespace-io/bitfinex-rs,33,56,1,"[('Rust', 100.0)]",False,False,View license
+611,https://github.com/withoutboats/cargo-add,0,56,1,"[('Rust', 77.8), ('Shell', 22.2)]",False,False,
+612,https://github.com/rayon-rs/rayon-hash,7,56,1,"[('Rust', 100.0)]",False,False,
+613,https://github.com/mikedilger/formdata,22,56,1,"[('Rust', 100.0)]",False,False,MIT license
+614,https://github.com/codeworm96/light2d-rs,1,56,1,"[('Rust', 100.0)]",False,False,
+615,https://github.com/Internet-of-People/mercury-rust,8,56,1,"[('Rust', 99.5)]",False,False,GPL-3.0 license
+616,https://github.com/async-email/async-smtp,13,56,1,"[('Rust', 100.0)]",False,False,
+617,https://github.com/DanielKeep/rust-boolinator,4,56,1,"[('Rust', 100.0)]",False,False,View license
+618,https://github.com/republicprotocol/zksnark-rs,12,56,1,"[('Rust', 99.1), ('Nix', 0.9)]",False,False,GPL-3.0 license
+619,https://github.com/jrjparks/OpnFi-rs,4,56,1,"[('Rust', 100.0)]",False,False,Apache-2.0 license
+620,https://github.com/jgallagher/tokio-chat-example,7,54,1,"[('Rust', 100.0)]",False,False,MIT license
+621,https://github.com/openethereum/pwasm-std,16,54,1,"[('Rust', 100.0)]",False,False,
+622,https://github.com/cholcombe973/rusix,9,54,1,"[('Rust', 96.1), (""Cap'n Proto"", 2.3), ('RenderScript', 1.6)]",False,False,
+623,https://github.com/numerodix/emcache,6,54,1,"[('Rust', 75.7), ('Python', 20.0), ('C++', 3.7)]",False,False,MIT license
+624,https://github.com/stusmall/ttl_cache,15,54,1,"[('Rust', 100.0)]",False,False,
+625,https://github.com/lojewalo/bins,4,54,1,"[('Rust', 100.0)]",False,False,MPL-2.0 license
+626,https://github.com/datrs/flat-tree,10,53,1,"[('Rust', 100.0)]",False,False,
+627,https://github.com/dob9601/jointhedots,2,53,1,"[('Rust', 99.8), ('Shell', 0.2)]",False,False,MIT license
+628,https://github.com/mtp401/protoc-grpcio,27,53,1,"[('Rust', 92.8), ('Shell', 7.2)]",False,False,View license
+629,https://github.com/marad/hyper-router,23,53,1,"[('Rust', 100.0)]",False,False,
+630,https://github.com/republicprotocol/zksnark-rs,12,56,1,"[('Rust', 99.1), ('Nix', 0.9)]",False,False,GPL-3.0 license
+631,https://github.com/misuzu/nix-simple-deploy,6,56,1,"[('Rust', 93.3), ('Nix', 6.7)]",False,False,
+632,https://github.com/jrjparks/OpnFi-rs,4,56,1,"[('Rust', 100.0)]",False,False,Apache-2.0 license
+633,https://github.com/richardanaya/webcomponent,4,56,1,"[('Rust', 98.2), ('Makefile', 1.8)]",False,False,
+634,https://github.com/softprops/serverless-aws-rust-multi,8,56,1,"[('Rust', 100.0)]",False,False,
+635,https://github.com/mrDIMAS/rg3d-sound,6,56,1,"[('Rust', 100.0)]",False,False,MIT license
+636,https://github.com/softprops/afterparty,13,55,1,"[('Rust', 98.9)]",False,False,MIT license
+637,https://github.com/fitzgen/scrapmetal,2,55,1,"[('Rust', 98.9), ('Shell', 1.1)]",False,False,
+638,https://github.com/BurntSushi/winapi-util,13,55,1,"[('Rust', 100.0)]",False,False,
+639,https://github.com/msiglreith/inspirv-rust,1,55,1,"[('Rust', 99.6), ('GLSL', 0.4)]",False,False,View license
+640,https://github.com/mcpherrinm/traceroute,6,51,1,"[('Rust', 100.0)]",False,False,
+641,https://github.com/dtolnay/lalrproc,3,51,1,"[('Rust', 100.0)]",False,False,
+642,https://github.com/hyperledger/sawtooth-sabre,47,51,1,"[('Rust', 88.8), ('TypeScript', 6.0), ('Dockerfile', 2.9), ('Just', 1.2)]",False,False,Apache-2.0 license
+643,https://github.com/rust-lang-nursery/unix-socket,18,51,1,"[('Rust', 100.0)]",False,False,
+644,https://github.com/whitequark/rust-log_buffer,8,51,1,"[('Rust', 100.0)]",False,False,
+645,https://github.com/ubnt-intrepid/rhq,5,51,1,"[('Rust', 91.2), ('TypeScript', 8.8)]",False,False,MIT license
+646,https://github.com/woboq/tr,9,51,1,"[('Rust', 99.5), ('Shell', 0.5)]",False,False,
+647,https://github.com/glfmn/glitter,1,51,1,"[('Rust', 97.9), ('Shell', 2.1)]",False,False,MPL-2.0 license
+648,https://github.com/rust-secure-code/cargo-sandbox,1,51,1,"[('Rust', 100.0)]",False,False,
+649,https://github.com/terra-money/cosmwasm-contracts,26,51,1,"[('Rust', 100.0)]",False,False,Apache-2.0 license
+650,https://github.com/noshu/rustimization,11,50,1,"[('Rust', 100.0)]",False,False,MIT license
+651,https://github.com/droundy/tinyset,7,50,1,"[('Rust', 100.0)]",False,False,
+652,https://github.com/gwihlidal/vk-sync-rs,18,50,1,"[('Rust', 100.0)]",False,False,
+653,https://github.com/alexxuyang/substrate-dex,26,50,1,"[('Rust', 99.7), ('Shell', 0.3)]",False,False,MIT license
+654,https://github.com/iwburns/id-tree,16,50,1,"[('Rust', 100.0)]",False,False,MIT license
+655,https://github.com/nicohman/raven,1,50,1,"[('Rust', 100.0)]",False,False,GPL-3.0 license
+656,https://github.com/simmons/tokio-aio-examples,8,50,1,"[('Rust', 100.0)]",False,False,
+657,https://github.com/withoutboats/display_derive,5,50,1,"[('Rust', 100.0)]",False,False,
+658,https://github.com/transistorfet/molten,2,50,1,"[('Rust', 96.6), ('Python', 3.2), ('C', 0.2)]",False,False,GPL-3.0 license
+659,https://github.com/simmons/webrtc-sctp,5,50,1,"[('Rust', 100.0)]",False,False,
+660,https://github.com/citahub/cita-vm,28,50,1,"[('Rust', 100.0)]",False,False,Apache-2.0 license
+661,https://github.com/andelf/rust-darts,7,50,1,"[('Rust', 100.0)]",False,False,MIT license
+662,https://github.com/jvns/snake.rs,5,50,1,"[('Rust', 100.0)]",False,False,
+663,https://github.com/planet0104/edge_detection,11,50,1,"[('Rust', 100.0)]",False,False,
+664,https://github.com/iptq/wat,4,50,1,"[('Rust', 94.9), ('PLpgSQL', 3.2), ('TSQL', 1.2), ('HTML', 0.7)]",False,False,MIT license
+665,https://github.com/nbaksalyar/rust-streaming-http-parser,9,50,1,"[('Rust', 86.4), ('PowerShell', 12.3), ('C', 1.3)]",False,False,MIT license
+666,https://github.com/noshu/rustimization,11,50,1,"[('Rust', 100.0)]",False,False,MIT license
+667,https://github.com/droundy/tinyset,7,50,1,"[('Rust', 100.0)]",False,False,
+668,https://github.com/gwihlidal/vk-sync-rs,18,50,1,"[('Rust', 100.0)]",False,False,
+669,https://github.com/alexxuyang/substrate-dex,26,50,1,"[('Rust', 99.7), ('Shell', 0.3)]",False,False,MIT license
+670,https://github.com/image-rs/deflate-rs,15,52,1,"[('Rust', 100.0)]",False,False,
+671,https://github.com/nightkr/klocka,3,52,1,"[('Rust', 80.1), ('JavaScript', 15.0), ('Shell', 3.6), ('HTML', 1.3)]",False,False,
+672,https://github.com/msiglreith/grr,3,52,1,"[('Rust', 100.0)]",False,False,
+673,https://github.com/cbiffle/rtiow-rust,5,52,1,"[('Rust', 100.0)]",False,False,BSD-2-Clause license
+674,https://github.com/ad-si/textalyzer,5,52,1,"[('Rust', 100.0)]",False,False,
+675,https://github.com/kvark/yasteroids,2,52,1,"[('Rust', 100.0)]",False,False,Apache-2.0 license
+676,https://github.com/mimblewimble/cuckoo-miner,16,52,1,"[('Rust', 91.9), ('CMake', 8.1)]",False,False,Apache-2.0 license
+677,https://github.com/emeraldpay/emerald-vault,25,52,1,"[('Rust', 100.0)]",False,False,Apache-2.0 license
+678,https://github.com/wireapp/cryptobox,17,52,1,"[('Rust', 100.0)]",False,False,GPL-3.0 license
+679,https://github.com/Klapeyron/rtps-rs,15,52,1,"[('Rust', 100.0)]",False,False,Apache-2.0 license
+680,https://github.com/emeraldpay/emerald-vault,25,52,1,"[('Rust', 100.0)]",False,False,Apache-2.0 license
+681,https://github.com/wireapp/cryptobox,17,52,1,"[('Rust', 100.0)]",False,False,GPL-3.0 license
+682,https://github.com/Klapeyron/rtps-rs,15,52,1,"[('Rust', 100.0)]",False,False,Apache-2.0 license
+683,https://github.com/stevedonovan/chrono-english,10,52,1,"[('Rust', 100.0)]",False,False,MIT license
+684,https://github.com/rylev/remem,5,52,1,"[('Rust', 100.0)]",False,False,
+685,https://github.com/tokio-rs/tokio-uds,25,52,1,"[('Rust', 100.0)]",False,False,
+686,https://github.com/fristonio/docker.rs,11,52,1,"[('Rust', 99.0)]",False,False,MIT license
+687,https://github.com/Keats/webrust,7,52,1,"[('Rust', 94.3), ('Makefile', 5.7)]",False,False,
+688,https://github.com/jakmeier/paddlers-browser-game,3,52,1,"[('Rust', 90.8), ('FreeMarker', 2.7), ('Dockerfile', 2.0), ('Shell', 0.9), ('Makefile', 0.7), ('CSS', 0.6)]",False,False,
+689,https://github.com/felipesere/icepick,1,51,1,"[('Rust', 99.8)]",False,False,MIT license
+690,https://github.com/entropic-dev/ds,6,53,1,"[('Rust', 98.0), ('JavaScript', 2.0)]",False,False,
+691,https://github.com/gifnksm/game-of-life-rs,4,53,1,"[('Rust', 87.6), ('Makefile', 5.0), ('Dockerfile', 4.5), ('Shell', 2.9)]",False,False,
+692,https://github.com/Bastacyclop/rust_box2d,10,53,1,"[('Rust', 82.5), ('C++', 17.5)]",False,False,Zlib license
+693,https://github.com/eugeneia/rush,1,53,1,"[('Rust', 99.6), ('Nix', 0.4)]",False,False,Apache-2.0 license
+694,https://github.com/sebasmagri/rocket-loadavg-api,4,53,1,"[('Rust', 100.0)]",False,False,
+695,https://github.com/KodrAus/rust-ioc,3,53,1,"[('Rust', 100.0)]",False,False,
+696,https://github.com/hagsteel/deprecated-thing,2,53,1,"[('Rust', 100.0)]",False,False,MIT license
+697,https://github.com/twilco/beancount,13,53,1,"[('Rust', 100.0)]",False,False,
+698,https://github.com/fmfi-compbio/deepnano-blitz,12,53,1,"[('Rust', 73.5), ('Python', 26.5)]",False,False,MIT license
+699,https://github.com/saiumesh535/actix-server,7,53,1,"[('Rust', 87.2), ('JavaScript', 8.3), ('HTML', 3.7), ('CSS', 0.8)]",False,False,
+700,https://github.com/libcala/cala,5,52,1,"[('Rust', 99.1)]",False,False,
+701,https://github.com/wireapp/melissa,2,52,1,"[('Rust', 100.0)]",False,False,GPL-3.0 license
+702,https://github.com/TheBlueMatt/mining-proxy,15,52,1,"[('Rust', 100.0)]",False,False,MIT license
+703,https://github.com/jaredly/terraform,1,52,1,"[('Rust', 88.2), ('TypeScript', 6.8), ('JavaScript', 4.0)]",False,False,
+704,https://github.com/image-rs/deflate-rs,15,52,1,"[('Rust', 100.0)]",False,False,
+705,https://github.com/nightkr/klocka,3,52,1,"[('Rust', 80.1), ('JavaScript', 15.0), ('Shell', 3.6), ('HTML', 1.3)]",False,False,
+706,https://github.com/msiglreith/grr,3,52,1,"[('Rust', 100.0)]",False,False,
+707,https://github.com/cbiffle/rtiow-rust,5,52,1,"[('Rust', 100.0)]",False,False,BSD-2-Clause license
+708,https://github.com/ad-si/textalyzer,5,52,1,"[('Rust', 100.0)]",False,False,
+709,https://github.com/kvark/yasteroids,2,52,1,"[('Rust', 100.0)]",False,False,Apache-2.0 license
+710,https://github.com/pcein/four-levels,2,49,1,"[('Rust', 73.8), ('Makefile', 18.3), ('Logos', 7.9)]",False,False,
+711,https://github.com/emk/heroku-rust-cargo-hello,18,49,1,"[('Rust', 100.0)]",False,False,CC0-1.0 license
+712,https://github.com/tupini07/i3-bindings,2,49,1,"[('Rust', 100.0)]",False,False,MIT license
+713,https://github.com/alexcrichton/socks5-rs,6,49,1,"[('Rust', 100.0)]",False,False,
+714,https://github.com/m-labs/rust-atomic_ring_buffer,1,49,1,"[('Rust', 100.0)]",False,False,0BSD license
+715,https://github.com/reugn/rspark,1,49,1,"[('Rust', 100.0)]",False,False,MIT license
+716,https://github.com/trishume/dayder,5,49,1,"[('Rust', 46.2), ('JavaScript', 30.4), ('Ruby', 12.2), ('HTML', 11.2)]",False,False,MIT license
+717,https://github.com/nrc/proc-macro-rules,5,49,1,"[('Rust', 100.0)]",False,False,
+718,https://github.com/mnetship/ratsio,23,49,1,"[('Rust', 100.0)]",False,False,MIT license
+719,https://github.com/rust-bitcoin/hammersbald,16,49,1,"[('Rust', 100.0)]",False,False,Apache-2.0 license
+720,https://github.com/retep998/wio-rs,13,51,1,"[('Rust', 100.0)]",False,False,
+721,https://github.com/gyng/rust-raytracer,9,51,1,"[('Rust', 99.1)]",False,False,MIT license
+722,https://github.com/cch123/leetcode-rust,8,51,1,"[('Rust', 100.0)]",False,False,
+723,https://github.com/sgbasaraner/yeelight-cli,10,51,1,"[('Rust', 100.0)]",False,False,MIT license
+724,https://github.com/kaj/warp-diesel-ructe-sample,7,51,1,"[('Rust', 72.4), ('HTML', 15.9), ('SCSS', 6.5), ('PLpgSQL', 5.2)]",False,False,Unlicense license
+725,https://github.com/danthedaniel/binimage,1,51,1,"[('Rust', 100.0)]",False,False,MIT license
+726,https://github.com/oltdaniel/zap,3,51,1,"[('Rust', 100.0)]",False,False,MIT license
+727,https://github.com/justinmichaud/ion,4,51,1,"[('Rust', 54.7), ('CSS', 43.1), ('HTML', 1.3)]",False,False,
+728,https://github.com/mcpherrinm/traceroute,6,51,1,"[('Rust', 100.0)]",False,False,
+729,https://github.com/dtolnay/lalrproc,3,51,1,"[('Rust', 100.0)]",False,False,
+730,https://github.com/Badel2/slime_seed_finder,4,49,1,"[('Rust', 68.1), ('JavaScript', 19.1), ('HTML', 12.6)]",False,False,GPL-3.0 license
+731,https://github.com/rust-math/fftw,22,49,1,"[('Rust', 97.7), ('Shell', 2.2), ('C', 0.1)]",False,False,View license
+732,https://github.com/whitfin/s3-meta,8,49,1,"[('Rust', 100.0)]",False,False,MIT license
+733,https://github.com/zzau13/v_escape,5,49,1,"[('Rust', 99.9), ('Shell', 0.1)]",False,False,View license
+734,https://github.com/hmwill/tokio-linux-aio,9,49,1,"[('Rust', 99.8), ('C', 0.2)]",False,False,MIT license
+735,https://github.com/reem/adamantium,4,49,1,"[('Rust', 100.0)]",False,False,
+736,https://github.com/rkarp/rust-dll-demo,9,49,1,"[('Rust', 100.0)]",False,False,Unlicense license
+737,https://github.com/roy-ganz/toql,1,49,1,"[('Rust', 100.0)]",False,False,
+738,https://github.com/proctorlabs/templar,8,49,1,"[('Rust', 100.0)]",False,False,View license
+739,https://github.com/silentsokolov/tocenter,1,49,1,"[('Rust', 100.0)]",False,False,
+740,https://github.com/robey/c3r3s,5,48,1,"[('Rust', 55.8), ('Assembly', 39.8), ('Makefile', 4.1), ('Ruby', 0.3)]",False,False,View license
+741,https://github.com/hyperledger-archives/indy-crypto,58,48,1,"[('Rust', 93.0), ('Python', 2.3), ('HTML', 2.0), ('Groovy', 1.4), ('JavaScript', 0.6), ('Shell', 0.3)]",False,False,Apache-2.0 license
+742,https://github.com/datdotorg/datdot-node-rust,9,48,1,"[('Rust', 97.4), ('JavaScript', 2.1), ('Shell', 0.5)]",False,False,GPL-3.0 license
+743,https://github.com/bsteinb/accurate,2,47,1,"[('Rust', 99.9), ('Shell', 0.1)]",False,False,
+744,https://github.com/swgillespie/rjs,2,47,1,"[('Rust', 99.2)]",False,False,View license
+745,https://github.com/lambdastackio/tokio-http2,8,47,1,"[('Rust', 99.7), ('Shell', 0.3)]",False,False,Apache-2.0 license
+746,https://github.com/gs0510/rustrace,3,47,1,"[('Rust', 99.0), ('Dockerfile', 1.0)]",False,False,MIT license
+747,https://github.com/klingtnet/rsoundio,5,47,1,"[('Rust', 100.0)]",False,False,
+748,https://github.com/novifinancial/librabft_simulator,9,47,1,"[('Rust', 99.3), ('Python', 0.7)]",False,False,
+749,https://github.com/golemfactory/golem-unlimited,8,47,1,"[('Rust', 91.1), ('JavaScript', 5.4), ('HTML', 2.6), ('CSS', 0.3), ('Dockerfile', 0.3), ('Shell', 0.2), ('Makefile', 0.1)]",False,False,GPL-3.0 license
+750,https://github.com/yujinliang/rust_learn,8,49,1,"[('Rust', 99.1), ('C', 0.9)]",False,False,GPL-3.0 license
+751,https://github.com/Mereep/rchain,24,49,1,"[('Rust', 100.0)]",False,False,
+752,https://github.com/rust-math/fftw,22,49,1,"[('Rust', 97.7), ('Shell', 2.2), ('C', 0.1)]",False,False,View license
+753,https://github.com/hmwill/tokio-linux-aio,9,49,1,"[('Rust', 99.8), ('C', 0.2)]",False,False,MIT license
+754,https://github.com/zzau13/v_escape,5,49,1,"[('Rust', 99.9), ('Shell', 0.1)]",False,False,View license
+755,https://github.com/whitfin/s3-meta,8,49,1,"[('Rust', 100.0)]",False,False,MIT license
+756,https://github.com/reem/adamantium,4,49,1,"[('Rust', 100.0)]",False,False,
+757,https://github.com/rkarp/rust-dll-demo,9,49,1,"[('Rust', 100.0)]",False,False,Unlicense license
+758,https://github.com/taskchampion/taskchampion,9,49,1,"[('Rust', 67.3), ('C', 32.2)]",False,False,MIT license
+759,https://github.com/kmcallister/launch-code,1,49,1,"[('Rust', 100.0)]",False,False,
+760,https://github.com/simmons/webrtc-sctp,5,50,1,"[('Rust', 100.0)]",False,False,
+761,https://github.com/dusk-network/rusk-vm,13,50,1,"[('Rust', 98.4), ('Makefile', 1.6)]",False,False,MPL-2.0 license
+762,https://github.com/mvirkkunen/stm32f103xx-usb,16,50,1,"[('Rust', 99.2), ('Logos', 0.8)]",False,False,MIT license
+763,https://github.com/pepsighan/papito,2,50,1,"[('Rust', 100.0)]",False,False,MIT license
+764,https://github.com/jerry73204/rust-type-freak,2,50,1,"[('Rust', 100.0)]",False,False,
+765,https://github.com/postmates/hopper,7,49,1,"[('Rust', 99.8), ('Dockerfile', 0.2)]",False,False,View license
+766,https://github.com/TheThirdOne/elf-edit,9,49,1,"[('Rust', 100.0)]",False,False,MIT license
+767,https://github.com/cgati/yes,11,49,1,"[('Rust', 100.0)]",False,False,MIT license
+768,https://github.com/not-fl3/bulletrs,2,49,1,"[('Rust', 99.9)]",False,False,MIT license
+769,https://github.com/quadrupleslap/x264,13,49,1,"[('Rust', 100.0)]",False,False,
+770,https://github.com/reem/adamantium,4,49,1,"[('Rust', 100.0)]",False,False,
+771,https://github.com/rkarp/rust-dll-demo,9,49,1,"[('Rust', 100.0)]",False,False,Unlicense license
+772,https://github.com/taskchampion/taskchampion,9,49,1,"[('Rust', 67.3), ('C', 32.2)]",False,False,MIT license
+773,https://github.com/kmcallister/launch-code,1,49,1,"[('Rust', 100.0)]",False,False,
+774,https://github.com/rustls/sct.rs,41,49,1,"[('Rust', 72.2), ('Python', 27.8)]",False,False,
+775,https://github.com/moosingin3space/hyproxy,7,49,1,"[('Rust', 100.0)]",False,False,Apache-2.0 license
+776,https://github.com/pcein/four-levels,2,49,1,"[('Rust', 73.8), ('Makefile', 18.3), ('Logos', 7.9)]",False,False,
+777,https://github.com/emk/heroku-rust-cargo-hello,18,49,1,"[('Rust', 100.0)]",False,False,CC0-1.0 license
+778,https://github.com/alexcrichton/socks5-rs,6,49,1,"[('Rust', 100.0)]",False,False,
+779,https://github.com/m-labs/rust-atomic_ring_buffer,1,49,1,"[('Rust', 100.0)]",False,False,0BSD license
+780,https://github.com/netvl/md.rs,8,45,1,"[('Rust', 100.0)]",False,False,MIT license
+781,https://github.com/Boddlnagg/units,2,45,1,"[('Rust', 100.0)]",False,False,MIT license
+782,https://github.com/rust-blockchain/blockchain,15,45,1,"[('Rust', 100.0)]",False,False,GPL-3.0 license
+783,https://github.com/rust-embedded/fixedvec-rs,6,45,1,"[('Rust', 100.0)]",False,False,
+784,https://github.com/kesslern/dot-templater,7,45,1,"[('Rust', 89.6), ('Makefile', 7.1), ('Shell', 3.3)]",False,False,MIT license
+785,https://github.com/spk/maman,6,44,1,"[('Rust', 94.6), ('Makefile', 5.4)]",False,False,MIT license
+786,https://github.com/thepowersgang/stack_dst-rs,3,44,1,"[('Rust', 99.2)]",False,False,
+787,https://github.com/OpenCyphal-Garage/cyphal.rs,7,44,1,"[('Rust', 98.0), ('Python', 1.9), ('Shell', 0.1)]",False,False,
+788,https://github.com/DimaKudosh/difflib,6,44,1,"[('Rust', 100.0)]",False,False,MIT license
+789,https://github.com/ivanceras/balisong,2,44,1,"[('Rust', 79.6), ('C', 14.0), ('RenderScript', 3.7), ('MATLAB', 2.4), ('Makefile', 0.3)]",False,False,MIT license
+790,https://github.com/tdfischer/pto,8,47,1,"[('Rust', 100.0)]",False,False,Apache-2.0 license
+791,https://github.com/przygienda/rust-extfsm,7,47,1,"[('Rust', 100.0)]",False,False,Apache-2.0 license
+792,https://github.com/badboy/redlock-rs,14,46,1,"[('Rust', 98.2), ('Makefile', 1.8)]",False,False,BSD-3-Clause license
+793,https://github.com/lilyball/alfred-rs,6,46,1,"[('Rust', 100.0)]",False,False,
+794,https://github.com/ElementsProject/reserves,14,46,1,"[('Rust', 99.8), ('Shell', 0.2)]",False,False,CC0-1.0 license
+795,https://github.com/auxoncorp/bounded-registers,6,46,1,"[('Rust', 73.3), ('Agda', 22.4), ('TeX', 4.1), ('Shell', 0.2)]",False,False,MIT license
+796,https://github.com/Kerollmops/sdset,3,46,1,"[('Rust', 98.7)]",False,False,MIT license
+797,https://github.com/trishume/ratewithscience,4,46,1,"[('Rust', 35.6), ('JavaScript', 27.5), ('CSS', 20.5), ('HTML', 16.4)]",False,False,MIT license
+798,https://github.com/archshift/llama,2,46,1,"[('Rust', 92.9), ('Python', 2.5), ('C++', 2.1), ('QML', 2.1)]",False,False,BSD-3-Clause license
+799,https://github.com/shepmaster/rust-arduino-blink-led-no-core,1,46,1,"[('Rust', 99.5), ('Makefile', 0.5)]",False,False,
+800,https://github.com/auxoncorp/bounded-registers,6,46,1,"[('Rust', 73.3), ('Agda', 22.4), ('TeX', 4.1), ('Shell', 0.2)]",False,False,MIT license
+801,https://github.com/Kerollmops/sdset,3,46,1,"[('Rust', 98.7)]",False,False,MIT license
+802,https://github.com/trishume/ratewithscience,4,46,1,"[('Rust', 35.6), ('JavaScript', 27.5), ('CSS', 20.5), ('HTML', 16.4)]",False,False,MIT license
+803,https://github.com/archshift/llama,2,46,1,"[('Rust', 92.9), ('Python', 2.5), ('C++', 2.1), ('QML', 2.1)]",False,False,BSD-3-Clause license
+804,https://github.com/shepmaster/rust-arduino-blink-led-no-core,1,46,1,"[('Rust', 99.5), ('Makefile', 0.5)]",False,False,
+805,https://github.com/DanSimon/peruse,5,46,1,"[('Rust', 100.0)]",False,False,MIT license
+806,https://github.com/asomers/mock_shootout,4,46,1,"[('Rust', 95.7), ('Python', 4.1)]",False,False,MIT license
+807,https://github.com/koute/libretro-backend,16,46,1,"[('Rust', 100.0)]",False,False,View license
+808,https://github.com/lankydan/rust-web-with-rocket,12,46,1,"[('Rust', 84.1), ('PLpgSQL', 15.9)]",False,False,
+809,https://github.com/skade/widmann,2,46,1,"[('Rust', 100.0)]",False,False,MIT license
+810,https://github.com/oli-obk/camera_capture,18,47,1,"[('Rust', 100.0)]",False,False,
+811,https://github.com/tomaka/glium_text,37,47,1,"[('Rust', 100.0)]",False,False,
+812,https://github.com/PacktPublishing/Mastering-Rust,17,47,1,"[('Rust', 93.3), ('LLVM', 3.4), ('Handlebars', 1.1), ('Ruby', 0.8), ('C', 0.7), ('JavaScript', 0.3)]",False,False,MIT license
+813,https://github.com/hopv/hoice,11,47,1,"[('Rust', 82.1), ('SMT', 17.9)]",False,False,Apache-2.0 license
+814,https://github.com/CleanCut/rusty_sword_arena,11,47,1,"[('Rust', 98.2), ('Shell', 1.8)]",False,False,MIT license
+815,https://github.com/Fiedzia/rust-usdt,5,47,1,"[('Rust', 100.0)]",False,False,
+816,https://github.com/dobkeratops/rustfind,9,47,1,"[('Rust', 84.2), ('C', 7.0), ('Python', 5.0), ('Makefile', 2.5), ('CSS', 1.2), ('HTML', 0.1)]",False,False,LGPL-2.1 license
+817,https://github.com/jackmott/rust-lexer,3,47,1,"[('Rust', 100.0)]",False,False,MIT license
+818,https://github.com/krdln/fomat-macros,7,47,1,"[('Rust', 100.0)]",False,False,MIT license
+819,https://github.com/you-win/godot-pong-rust,7,47,1,"[('Rust', 98.4), ('GDScript', 1.6)]",False,False,MIT license
+820,https://github.com/elipmoc/Ruscall,4,43,1,"[('Rust', 98.1), ('Rascal', 1.7)]",False,False,MIT license
+821,https://github.com/Tangent128/webmetro,3,43,1,"[('Rust', 100.0)]",False,False,MIT license
+822,https://github.com/mdg/leema,1,43,1,"[('Rust', 97.4), ('Python', 2.5)]",False,False,Apache-2.0 license
+823,https://github.com/PrintSpool/PrintSpool,10,43,1,"[('Rust', 57.2), ('TypeScript', 28.7), ('JavaScript', 11.7), ('Shell', 2.3), ('HTML', 0.1)]",False,False,AGPL-3.0 license
+824,https://github.com/l1npengtul/libuvc-rs,11,43,1,"[('Rust', 99.9), ('C', 0.1)]",False,False,MIT license
+825,https://github.com/akiradeveloper/ijk,0,43,1,"[('Rust', 99.6)]",False,False,MIT license
+826,https://github.com/whitequark/rust-facedetect,2,43,1,"[('Rust', 100.0)]",False,False,
+827,https://github.com/Xion/rofld,2,43,1,"[('Rust', 99.4), ('Shell', 0.6)]",False,False,
+828,https://github.com/andars/pebble.rs,1,43,1,"[('Rust', 96.5), ('Shell', 3.5)]",False,False,BSD-3-Clause license
+829,https://github.com/wycats/rust-civet,8,43,1,"[('Rust', 100.0)]",False,False,MIT license
+830,https://github.com/hopv/hoice,11,47,1,"[('Rust', 82.1), ('SMT', 17.9)]",False,False,Apache-2.0 license
+831,https://github.com/CleanCut/rusty_sword_arena,11,47,1,"[('Rust', 98.2), ('Shell', 1.8)]",False,False,MIT license
+832,https://github.com/Fiedzia/rust-usdt,5,47,1,"[('Rust', 100.0)]",False,False,
+833,https://github.com/dobkeratops/rustfind,9,47,1,"[('Rust', 84.2), ('C', 7.0), ('Python', 5.0), ('Makefile', 2.5), ('CSS', 1.2), ('HTML', 0.1)]",False,False,LGPL-2.1 license
+834,https://github.com/krdln/fomat-macros,7,47,1,"[('Rust', 100.0)]",False,False,MIT license
+835,https://github.com/seriyps/rust-erl-ext,10,47,1,"[('Rust', 94.3), ('Erlang', 5.7)]",False,False,Apache-2.0 license
+836,https://github.com/tdfischer/pto,8,47,1,"[('Rust', 100.0)]",False,False,Apache-2.0 license
+837,https://github.com/przygienda/rust-extfsm,7,47,1,"[('Rust', 100.0)]",False,False,Apache-2.0 license
+838,https://github.com/badboy/redlock-rs,14,46,1,"[('Rust', 98.2), ('Makefile', 1.8)]",False,False,BSD-3-Clause license
+839,https://github.com/lilyball/alfred-rs,6,46,1,"[('Rust', 100.0)]",False,False,
+840,https://github.com/Roguelazer/rust-syslog-rfc5424,14,43,1,"[('Rust', 100.0)]",False,False,ISC license
+841,https://github.com/exonum/exonum-btc-anchoring,23,43,1,"[('Rust', 98.0), ('Python', 1.6), ('Shell', 0.4)]",False,False,Apache-2.0 license
+842,https://github.com/yaa110/rubigo,3,43,1,"[('Rust', 100.0)]",False,False,MIT license
+843,https://github.com/LouisPeng/RenderScript-ImageFilter,18,43,1,"[('Rust', 59.0), ('Java', 41.0)]",False,False,Apache-2.0 license
+844,https://github.com/Gankra/rust-datastructures,3,43,1,"[('Rust', 100.0)]",False,False,
+845,https://github.com/mdg/leema,1,43,1,"[('Rust', 97.4), ('Python', 2.5)]",False,False,Apache-2.0 license
+846,https://github.com/PrintSpool/PrintSpool,10,43,1,"[('Rust', 57.2), ('TypeScript', 28.7), ('JavaScript', 11.7), ('Shell', 2.3), ('HTML', 0.1)]",False,False,AGPL-3.0 license
+847,https://github.com/l1npengtul/libuvc-rs,11,43,1,"[('Rust', 99.9), ('C', 0.1)]",False,False,MIT license
+848,https://github.com/Nukesor/webhook-server,9,43,1,"[('Rust', 97.4), ('Shell', 2.6)]",False,False,MIT license
+849,https://github.com/akiradeveloper/ijk,0,43,1,"[('Rust', 99.6)]",False,False,MIT license
+850,https://github.com/borsboom/cli-for-ynab,3,46,1,"[('Rust', 98.5), ('Shell', 1.3), ('Makefile', 0.2)]",False,False,
+851,https://github.com/bzar/wasm-pong-rs,11,46,1,"[('Rust', 97.6), ('HTML', 2.4)]",False,False,
+852,https://github.com/skade/widmann,2,46,1,"[('Rust', 100.0)]",False,False,MIT license
+853,https://github.com/iximeow/zvm,3,46,1,"[('Rust', 98.4), ('Java', 1.5)]",False,False,0BSD license
+854,https://github.com/YoEight/eventstore-rs,18,45,1,"[('Rust', 100.0)]",False,False,MIT license
+855,https://github.com/nrc/zero,13,45,1,"[('Rust', 100.0)]",False,False,View license
+856,https://github.com/rust-redux/rust-redux,2,45,1,"[('Rust', 100.0)]",False,False,MIT license
+857,https://github.com/attaca/attaca,4,45,1,"[('Rust', 99.6), (""Cap'n Proto"", 0.4)]",False,False,MPL-2.0 license
+858,https://github.com/khvzak/victoria-dom,4,45,1,"[('Rust', 99.0)]",False,False,
+859,https://github.com/ehsanul/rust-ws,11,45,1,"[('Rust', 100.0)]",False,False,MIT license
+860,https://github.com/nrc/zero,13,45,1,"[('Rust', 100.0)]",False,False,View license
+861,https://github.com/rust-redux/rust-redux,2,45,1,"[('Rust', 100.0)]",False,False,MIT license
+862,https://github.com/attaca/attaca,4,45,1,"[('Rust', 99.6), (""Cap'n Proto"", 0.4)]",False,False,MPL-2.0 license
+863,https://github.com/khvzak/victoria-dom,4,45,1,"[('Rust', 99.0)]",False,False,
+864,https://github.com/ehsanul/rust-ws,11,45,1,"[('Rust', 100.0)]",False,False,MIT license
+865,https://github.com/battlecode/battlecode-2018,22,45,1,"[('Rust', 58.3), ('Python', 32.2), ('HTML', 3.8), ('Shell', 2.3), ('Makefile', 1.2), ('C', 1.0)]",False,False,
+866,https://github.com/crossbeam-rs/crossbeam-deque,8,45,1,"[('Rust', 100.0)]",False,False,
+867,https://github.com/huxingyi/meshlite,5,45,1,"[('Rust', 96.0), ('C', 2.4), ('Shell', 1.1), ('Python', 0.5)]",False,False,MIT license
+868,https://github.com/chinanf-boy/exercism-rust-zh,5,45,1,"[('Rust', 94.6), ('JavaScript', 3.0), ('HTML', 1.8)]",False,False,
+869,https://github.com/Diggsey/aoc2018,3,45,1,"[('Rust', 100.0)]",False,False,
+870,https://github.com/andreivasiliu/stacked-worlds,0,42,1,"[('Rust', 100.0)]",False,False,LGPL-3.0 license
+871,https://github.com/ibmandura/ArtTree,3,42,1,"[('Rust', 100.0)]",False,False,MIT license
+872,https://github.com/SkylerLipthay/interpolate_idents,10,42,1,"[('Rust', 100.0)]",False,False,MIT license
+873,https://github.com/vertexclique/korq,2,42,1,"[('Rust', 66.3), ('Shell', 33.7)]",False,False,MIT license
+874,https://github.com/brson/ferris-fencing,3,42,1,"[('Rust', 77.4), ('CSS', 7.5), ('JavaScript', 6.3), ('HTML', 6.0), ('Assembly', 2.8)]",False,False,
+875,https://github.com/nikomatsakis/dogged,3,42,1,"[('Rust', 100.0)]",False,False,
+876,https://github.com/BonsaiDen/cursive_tree_view,18,42,1,"[('Rust', 100.0)]",False,False,
+877,https://github.com/ciphax/letsencrypt-inwx,7,42,1,"[('Rust', 93.8), ('Shell', 4.5), ('Dockerfile', 1.7)]",False,False,MIT license
+878,https://github.com/idobata/hokaido,4,41,1,"[('Rust', 77.8), ('Ruby', 22.2)]",False,False,MIT license
+879,https://github.com/phip1611/diplomarbeit-impl,3,41,1,"[('Rust', 94.4), ('Shell', 2.7), ('Makefile', 1.4), ('C', 1.1), ('JavaScript', 0.2), ('Assembly', 0.2)]",False,False,
+880,https://github.com/Fiedzia/rust-usdt,5,47,1,"[('Rust', 100.0)]",False,False,
+881,https://github.com/dobkeratops/rustfind,9,47,1,"[('Rust', 84.2), ('C', 7.0), ('Python', 5.0), ('Makefile', 2.5), ('CSS', 1.2), ('HTML', 0.1)]",False,False,LGPL-2.1 license
+882,https://github.com/krdln/fomat-macros,7,47,1,"[('Rust', 100.0)]",False,False,MIT license
+883,https://github.com/you-win/godot-pong-rust,7,47,1,"[('Rust', 98.4), ('GDScript', 1.6)]",False,False,MIT license
+884,https://github.com/calebzulawski/generic-simd,2,47,1,"[('Rust', 100.0)]",False,False,
+885,https://github.com/seriyps/rust-erl-ext,10,47,1,"[('Rust', 94.3), ('Erlang', 5.7)]",False,False,Apache-2.0 license
+886,https://github.com/tdfischer/pto,8,47,1,"[('Rust', 100.0)]",False,False,Apache-2.0 license
+887,https://github.com/przygienda/rust-extfsm,7,47,1,"[('Rust', 100.0)]",False,False,Apache-2.0 license
+888,https://github.com/badboy/redlock-rs,14,46,1,"[('Rust', 98.2), ('Makefile', 1.8)]",False,False,BSD-3-Clause license
+889,https://github.com/lilyball/alfred-rs,6,46,1,"[('Rust', 100.0)]",False,False,
+890,https://github.com/sunng87/urdict,1,42,1,"[('Rust', 100.0)]",False,False,
+891,https://github.com/chikoski/rust-exercises,9,42,1,"[('Rust', 100.0)]",False,False,MIT license
+892,https://github.com/ruuda/convector,2,42,1,"[('Rust', 95.7), ('GLSL', 2.3), ('Python', 2.0)]",False,False,GPL-3.0 license
+893,https://github.com/iron/persistent,29,42,1,"[('Rust', 100.0)]",False,False,
+894,https://github.com/jonathanKingston/todomvc-wasm,2,42,1,"[('Rust', 85.0), ('CSS', 11.9), ('HTML', 2.4)]",False,False,
+895,https://github.com/GGist/ssdp-rs,13,42,1,"[('Rust', 100.0)]",False,False,
+896,https://github.com/jesse99/rparse,7,42,1,"[('Rust', 100.0)]",False,False,
+897,https://github.com/Johnson-A/Crabby,4,42,1,"[('Rust', 99.3), ('Shell', 0.7)]",False,False,GPL-2.0 license
+898,https://github.com/zmwangx/metadata,5,42,1,"[('Rust', 97.8), ('Ruby', 1.2), ('Makefile', 1.0)]",False,False,MIT license
+899,https://github.com/fitzgen/wasm-nm,4,42,1,"[('Rust', 100.0)]",False,False,
+900,https://github.com/huonw/external_mixin,3,44,1,"[('Rust', 100.0)]",False,False,
+901,https://github.com/swgillespie/gccjit.rs,11,44,1,"[('Rust', 100.0)]",False,False,GPL-3.0 license
+902,https://github.com/jvns/ltrace-bcc,4,44,1,"[('Rust', 100.0)]",False,False,
+903,https://github.com/fables-tales/decachedmem,4,44,1,"[('Rust', 73.6), ('Ruby', 26.4)]",False,False,
+904,https://github.com/lexxvir/esp32-hello,20,44,1,"[('Rust', 99.9)]",False,False,
+905,https://github.com/Bansco/subilo,4,44,1,"[('Rust', 90.3), ('Shell', 9.7)]",False,False,MIT license
+906,https://github.com/VerbalExpressions/RustVerbalExpressions,3,44,1,"[('Rust', 100.0)]",False,False,MIT license
+907,https://github.com/psinghal20/cargo-feature-analyst,2,44,1,"[('Rust', 100.0)]",False,False,MIT license
+908,https://github.com/dftlibs/numgrid,14,44,1,"[('Rust', 99.8), ('Python', 0.2)]",False,False,MPL-2.0 license
+909,https://github.com/clap-rs/term_size-rs,12,44,1,"[('Rust', 99.3), ('HTML', 0.7)]",False,False,
+910,https://github.com/thepowersgang/stack_dst-rs,3,44,1,"[('Rust', 99.2)]",False,False,
+911,https://github.com/OpenCyphal-Garage/cyphal.rs,7,44,1,"[('Rust', 98.0), ('Python', 1.9), ('Shell', 0.1)]",False,False,
+912,https://github.com/DimaKudosh/difflib,6,44,1,"[('Rust', 100.0)]",False,False,MIT license
+913,https://github.com/ivanceras/balisong,2,44,1,"[('Rust', 79.6), ('C', 14.0), ('RenderScript', 3.7), ('MATLAB', 2.4), ('Makefile', 0.3)]",False,False,MIT license
+914,https://github.com/trishume/quickdown,1,44,1,"[('Rust', 100.0)]",False,False,Apache-2.0 license
+915,https://github.com/advancedresearch/monotonic_solver,4,44,1,"[('Rust', 100.0)]",False,False,MIT license
+916,https://github.com/dcampbell24/iup-rust,13,44,1,"[('Rust', 100.0)]",False,False,MIT license
+917,https://github.com/LinusU/emoji-commit,6,44,1,"[('Rust', 100.0)]",False,False,
+918,https://github.com/dicej/tagger,2,44,1,"[('Rust', 99.2)]",False,False,
+919,https://github.com/suyash/geopattern-rs,2,44,1,"[('Rust', 100.0)]",False,False,
+920,https://github.com/clap-rs/term_size-rs,12,44,1,"[('Rust', 99.3), ('HTML', 0.7)]",False,False,
+921,https://github.com/murphysean/betarustasyncawait,4,44,1,"[('Rust', 100.0)]",False,False,MIT license
+922,https://github.com/yutiansut/qatrader-rs,41,44,1,"[('Rust', 98.7), ('Python', 1.3)]",False,False,MIT license
+923,https://github.com/pbzweihander/rust-web-boilerplate,2,44,1,"[('Rust', 85.5), ('Dockerfile', 11.1), ('Shell', 3.4)]",False,False,MIT license
+924,https://github.com/gsquire/reroute,7,44,1,"[('Rust', 100.0)]",False,False,MIT license
+925,https://github.com/azasypkin/rust-caster,3,44,1,"[('Rust', 100.0)]",False,False,
+926,https://github.com/SergejJurecko/mio_httpc,8,44,1,"[('Rust', 99.8), ('Makefile', 0.2)]",False,False,
+927,https://github.com/Ivo-Balbaert/start_rust,7,44,1,"[('Rust', 61.9), ('JavaScript', 20.9), ('HTML', 8.9), ('CSS', 8.3)]",False,False,
+928,https://github.com/gobwas/influent.rs,28,44,1,"[('Rust', 100.0)]",False,False,
+929,https://github.com/little-dude/rmp-rpc,13,44,1,"[('Rust', 97.7), ('Python', 2.3)]",False,False,View license
+930,https://github.com/SLMT/telnet-rs,18,43,1,"[('Rust', 99.0), ('Shell', 1.0)]",False,False,MIT license
+931,https://github.com/sruggier/rust-disruptor,6,43,1,"[('Rust', 99.2), ('Shell', 0.8)]",False,False,
+932,https://github.com/craftytrickster/mock_me,0,43,1,"[('Rust', 100.0)]",False,False,MIT license
+933,https://github.com/image-rs/inflate,18,43,1,"[('Rust', 100.0)]",False,False,MIT license
+934,https://github.com/sunng87/urdict,1,42,1,"[('Rust', 100.0)]",False,False,
+935,https://github.com/chikoski/rust-exercises,9,42,1,"[('Rust', 100.0)]",False,False,MIT license
+936,https://github.com/ruuda/convector,2,42,1,"[('Rust', 95.7), ('GLSL', 2.3), ('Python', 2.0)]",False,False,GPL-3.0 license
+937,https://github.com/iron/persistent,29,42,1,"[('Rust', 100.0)]",False,False,
+938,https://github.com/jonathanKingston/todomvc-wasm,2,42,1,"[('Rust', 85.0), ('CSS', 11.9), ('HTML', 2.4)]",False,False,
+939,https://github.com/GGist/ssdp-rs,13,42,1,"[('Rust', 100.0)]",False,False,
+940,https://github.com/fables-tales/decachedmem,4,44,1,"[('Rust', 73.6), ('Ruby', 26.4)]",False,False,
+941,https://github.com/lexxvir/esp32-hello,20,44,1,"[('Rust', 99.9)]",False,False,
+942,https://github.com/VerbalExpressions/RustVerbalExpressions,3,44,1,"[('Rust', 100.0)]",False,False,MIT license
+943,https://github.com/psinghal20/cargo-feature-analyst,2,44,1,"[('Rust', 100.0)]",False,False,MIT license
+944,https://github.com/dftlibs/numgrid,14,44,1,"[('Rust', 99.8), ('Python', 0.2)]",False,False,MPL-2.0 license
+945,https://github.com/almetica/almetica,16,44,1,"[('Rust', 99.5)]",False,False,AGPL-3.0 license
+946,https://github.com/clap-rs/term_size-rs,12,44,1,"[('Rust', 99.3), ('HTML', 0.7)]",False,False,
+947,https://github.com/azasypkin/rust-caster,3,44,1,"[('Rust', 100.0)]",False,False,
+948,https://github.com/gsquire/reroute,7,44,1,"[('Rust', 100.0)]",False,False,MIT license
+949,https://github.com/amethyst/editor-core,11,44,1,"[('Rust', 100.0)]",False,False,View license
+950,https://github.com/jesse99/rparse,7,42,1,"[('Rust', 100.0)]",False,False,
+951,https://github.com/k3d3/crossbeam-arccell,2,42,1,"[('Rust', 100.0)]",False,False,
+952,https://github.com/Johnson-A/Crabby,4,42,1,"[('Rust', 99.3), ('Shell', 0.7)]",False,False,GPL-2.0 license
+953,https://github.com/zmwangx/metadata,5,42,1,"[('Rust', 97.8), ('Ruby', 1.2), ('Makefile', 1.0)]",False,False,MIT license
+954,https://github.com/fitzgen/wasm-nm,4,42,1,"[('Rust', 100.0)]",False,False,
+955,https://github.com/mikejsavage/rspt,1,42,1,"[('Rust', 92.1), ('Shell', 6.1), ('Makefile', 1.8)]",False,False,
+956,https://github.com/japaric/stlog,1,42,1,"[('Rust', 95.6), ('Shell', 4.4)]",False,False,
+957,https://github.com/yoshuawuyts/power-warn,2,42,1,"[('Rust', 100.0)]",False,False,
+958,https://github.com/imiskolee/finance-rust,3,42,1,"[('Rust', 100.0)]",False,False,MIT license
+959,https://github.com/andreivasiliu/stacked-worlds,0,42,1,"[('Rust', 100.0)]",False,False,LGPL-3.0 license
+960,https://github.com/japaric/stlog,1,42,1,"[('Rust', 95.6), ('Shell', 4.4)]",False,False,
+961,https://github.com/yoshuawuyts/power-warn,2,42,1,"[('Rust', 100.0)]",False,False,
+962,https://github.com/qnighy/nails,1,42,1,"[('Rust', 98.7)]",False,False,
+963,https://github.com/imiskolee/finance-rust,3,42,1,"[('Rust', 100.0)]",False,False,MIT license
+964,https://github.com/andreivasiliu/stacked-worlds,0,42,1,"[('Rust', 100.0)]",False,False,LGPL-3.0 license
+965,https://github.com/ibmandura/ArtTree,3,42,1,"[('Rust', 100.0)]",False,False,MIT license
+966,https://github.com/distil/diffus,6,42,1,"[('Rust', 96.7), ('Shell', 3.3)]",False,False,Apache-2.0 license
+967,https://github.com/jamiebuilds/codeowners-enforcer,5,42,1,"[('Rust', 79.3), ('JavaScript', 17.4), ('Shell', 3.3)]",False,False,MIT license
+968,https://github.com/SkylerLipthay/interpolate_idents,10,42,1,"[('Rust', 100.0)]",False,False,MIT license
+969,https://github.com/brson/ferris-fencing,3,42,1,"[('Rust', 77.4), ('CSS', 7.5), ('JavaScript', 6.3), ('HTML', 6.0), ('Assembly', 2.8)]",False,False,
+970,https://github.com/Ivo-Balbaert/start_rust,7,44,1,"[('Rust', 61.9), ('JavaScript', 20.9), ('HTML', 8.9), ('CSS', 8.3)]",False,False,
+971,https://github.com/little-dude/rmp-rpc,13,44,1,"[('Rust', 97.7), ('Python', 2.3)]",False,False,View license
+972,https://github.com/osnr/rpi-kernel,1,44,1,"[('Rust', 90.8), ('Assembly', 6.7), ('Makefile', 2.5)]",False,False,
+973,https://github.com/mattgodbolt/path-tracer,7,44,1,"[('Rust', 100.0)]",False,False,MIT license
+974,https://github.com/nuclearfurnace/synchrotron,3,43,1,"[('Rust', 98.2), ('Shell', 1.8)]",False,False,MIT license
+975,https://github.com/anharu2394/multiplay-grpc-server,2,43,1,"[('Rust', 98.0), ('Shell', 2.0)]",False,False,
+976,https://github.com/bobbin-rs/bobbin-sdk,4,43,1,"[('Rust', 100.0)]",False,False,
+977,https://github.com/Toromino/kibou,4,43,1,"[('Rust', 92.6), ('CSS', 4.8), ('PLpgSQL', 1.4)]",False,False,AGPL-3.0 license
+978,https://github.com/sunshine-protocol/sunshine,16,43,1,"[('Rust', 100.0)]",False,False,View license
+979,https://github.com/jedisct1/rust-qptrie,6,43,1,"[('Rust', 100.0)]",False,False,ISC license
+980,https://github.com/emberian/rest_easy,4,38,1,"[('Rust', 100.0)]",False,False,
+981,https://github.com/lholznagel/arktur,4,38,1,"[('Rust', 99.4)]",False,False,
+982,https://github.com/samrat/rusl,2,38,1,"[('Rust', 96.1), ('Python', 2.3), ('C', 1.4), ('Makefile', 0.2)]",False,False,MIT license
+983,https://github.com/coreos/update-ssh-keys,29,38,1,"[('Rust', 77.0), ('Python', 23.0)]",False,False,Apache-2.0 license
+984,https://github.com/arcnmx/nue,1,38,1,"[('Rust', 99.6), ('Shell', 0.4)]",False,False,MIT license
+985,https://github.com/Smithay/udev-rs,22,38,1,"[('Rust', 100.0)]",False,False,MIT license
+986,https://github.com/auth0-blog/rust-api-example,15,37,1,"[('Rust', 100.0)]",False,False,MIT license
+987,https://github.com/partim/domain,5,37,1,"[('Rust', 100.0)]",False,False,MIT license
+988,https://github.com/Twinklebear/bspline,2,37,1,"[('Rust', 100.0)]",False,False,MIT license
+989,https://github.com/isaacg1/colors,1,37,1,"[('Rust', 100.0)]",False,False,MIT license
+990,https://github.com/sunrise-choir/ssb-client-rs,4,41,1,"[('Rust', 100.0)]",False,False,LGPL-3.0 license
+991,https://github.com/paritytech/fleetwood,6,41,1,"[('Rust', 100.0)]",False,False,
+992,https://github.com/dignifiedquire/rust-accumulators,7,41,1,"[('Rust', 100.0)]",False,False,
+993,https://github.com/andresilva/rust-okasaki,7,41,1,"[('Rust', 100.0)]",False,False,MIT license
+994,https://github.com/PritiKumr/rust-httpd,7,41,1,"[('Rust', 78.7), ('JavaScript', 10.4), ('Ruby', 7.8), ('HTML', 3.1)]",False,False,
+995,https://github.com/Amanieu/cstr_core,17,41,1,"[('Rust', 100.0)]",False,False,
+996,https://github.com/devsnek/slither,2,41,1,"[('Rust', 98.0), ('Vim Script', 1.9)]",False,False,MIT license
+997,https://github.com/icefoxen/arewestdlibyet,1,41,1,"[('Rust', 100.0)]",False,False,MIT license
+998,https://github.com/polachok/pnetlink,13,41,1,"[('Rust', 100.0)]",False,False,
+999,https://github.com/bjornedstrom/timmy,2,41,1,"[('Rust', 98.6), ('Roff', 1.1)]",False,False,MIT license
